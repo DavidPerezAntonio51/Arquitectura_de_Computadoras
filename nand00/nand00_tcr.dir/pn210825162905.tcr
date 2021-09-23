@@ -1,0 +1,9 @@
+#Start recording tcl command: 8/25/2021 16:26:46
+#Project Location: C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/nand00; Project name: nand00
+prj_project new -name "nand00" -impl "nand0" -dev LCMXO2-7000HE-5TG144C -synthesis "synplify"
+prj_project save
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/nand00/nand00.vhdl"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/nand00/nandtestbench00.vhdl"
+prj_project save
+prj_project close
+#Stop recording: 8/25/2021 16:29:05

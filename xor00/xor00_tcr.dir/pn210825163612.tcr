@@ -1,0 +1,9 @@
+#Start recording tcl command: 8/25/2021 16:32:14
+#Project Location: C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/xor00; Project name: xor00
+prj_project new -name "xor00" -impl "xor0" -dev LCMXO2-7000HE-5TG144C -synthesis "synplify"
+prj_project save
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/xor00/xor00.vhdl"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/xor00/xortestbench00.vhdl"
+prj_project save
+prj_project close
+#Stop recording: 8/25/2021 16:36:12

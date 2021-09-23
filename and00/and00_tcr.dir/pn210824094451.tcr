@@ -1,0 +1,7 @@
+#Start recording tcl command: 8/24/2021 08:40:00
+#Project Location: C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/and00; Project name: and00
+prj_project open "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/and00/and00.ldf"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/and00/andTB00/andTB00.spf"
+prj_project save
+prj_project close
+#Stop recording: 8/24/2021 09:44:51

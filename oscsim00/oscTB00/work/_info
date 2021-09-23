@@ -1,0 +1,93 @@
+m255
+K4
+z2
+!s11e vcom 2020.3 2020.10, Oct 14 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/oscsim00/oscTB00
+Eand00
+Z1 w1632414624
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z4 8C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/oscsim00/oscTB00/and00.vhdl
+Z5 FC:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/oscsim00/oscTB00/and00.vhdl
+l0
+L4 1
+VCil;PM2WNj@ZlONzM;Sk`0
+!s100 nf00b:n7mSQ95gAezXL;g2
+Z6 OT;C;2020.3;71
+32
+Z7 !s110 1632415628
+!i10b 1
+Z8 !s108 1632415628.000000
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/oscsim00/oscTB00/and00.vhdl|
+Z10 !s107 C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/oscsim00/oscTB00/and00.vhdl|
+!i113 1
+Z11 o-work work -O0
+Z12 tExplicit 1 CvgOpt 0
+Aand0
+R2
+R3
+DEx4 work 5 and00 0 22 Cil;PM2WNj@ZlONzM;Sk`0
+!i122 0
+l12
+L11 4
+VIY@8ZXazZ0CO2Go[;:J0M0
+!s100 Nm1KOV]YdB;0h[;e6Y0;41
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eosctestbench00
+Z13 w1632415585
+R2
+R3
+!i122 1
+R0
+Z14 8C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/oscsim00/oscTB00/oscTestBench00.vhdl
+Z15 FC:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/oscsim00/oscTB00/oscTestBench00.vhdl
+l0
+L4 1
+V_S[ZV`;fGGaLSon;f`87?3
+!s100 jg^BiFd=`717Bj51bED5f1
+R6
+32
+Z16 !s110 1632415629
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/oscsim00/oscTB00/oscTestBench00.vhdl|
+!s107 C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/oscsim00/oscTB00/oscTestBench00.vhdl|
+!i113 1
+R11
+R12
+Aosctestbench0
+R2
+R3
+DEx4 work 14 osctestbench00 0 22 _S[ZV`;fGGaLSon;f`87?3
+!i122 1
+l17
+L7 38
+V0;BA35=_Ja7gMGKBNCJ?^3
+!s100 >YP8iPK3`GD4LaCJTWna]3
+R6
+32
+R16
+!i10b 1
+R8
+R17
+Z18 !s107 C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/oscsim00/oscTB00/oscTestBench00.vhdl|
+!i113 1
+R11
+R12

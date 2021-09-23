@@ -1,0 +1,9 @@
+#Start recording tcl command: 8/23/2021 11:39:14
+#Project Location: C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/and00; Project name: and00
+prj_project new -name "and00" -impl "and0" -dev LCMXO2-7000HE-5TG144C -synthesis "synplify"
+prj_project save
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/and00/and00.vhdl"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/and00/testbench.vhdl"
+prj_src remove "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/and00/testbench.vhdl"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/and00/andtestbench00.vhdl"
+#Stop recording: 8/23/2021 12:00:31

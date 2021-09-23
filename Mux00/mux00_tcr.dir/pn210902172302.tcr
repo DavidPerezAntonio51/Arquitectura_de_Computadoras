@@ -1,0 +1,5 @@
+#Start recording tcl command: 9/2/2021 15:20:33
+#Project Location: C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/Mux00; Project name: mux00
+prj_project open "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/Mux00/mux00.ldf"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/Mux00/Mux00/Mux00.spf"
+#Stop recording: 9/2/2021 17:23:02

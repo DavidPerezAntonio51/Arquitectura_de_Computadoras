@@ -1,0 +1,35 @@
+if {![file exists "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/adder8bit0.mpf"]} { 
+	project new "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0" adder8bit0
+	project addfile "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/packagefa00.vhdl"
+	project addfile "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/pakageha00.vhdl"
+	project addfile "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/packageadder8bit00.vhdl"
+	project addfile "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/anda00.vhdl"
+	project addfile "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/xnora00.vhdl"
+	project addfile "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/xora00.vhdl"
+	project addfile "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/orao00.vhdl"
+	project addfile "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/ha00.vhdl"
+	project addfile "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/fa00.vhdl"
+	project addfile "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/adder8bit00.vhdl"
+	project addfile "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/testbenchadder8bit00.vhdl"
+	vlib  work
+	vdel -lib work -all 
+	vlib work
+	vcom -work work "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/packagefa00.vhdl"
+	vcom -work work "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/pakageha00.vhdl"
+	vcom -work work "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/packageadder8bit00.vhdl"
+	vcom -work work "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/anda00.vhdl"
+	vcom -work work "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/xnora00.vhdl"
+	vcom -work work "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/xora00.vhdl"
+	vcom -work work "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/orao00.vhdl"
+	vcom -work work "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/ha00.vhdl"
+	vcom -work work "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/fa00.vhdl"
+	vcom -work work "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/adder8bit00.vhdl"
+	vcom -work work "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/testbenchadder8bit00.vhdl"
+} else {
+	project open "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/adder8bit0"
+	project compileoutofdate
+}
+vsim -L work -L pmi_work -L ovi_machxo2  testbenchadder8bit00
+view wave
+add wave /*
+run 1000ns

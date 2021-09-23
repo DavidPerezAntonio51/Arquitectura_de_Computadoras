@@ -1,0 +1,7 @@
+#Start recording tcl command: 8/26/2021 11:39:42
+#Project Location: C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder4bits00; Project name: adder4bits00
+prj_project new -name "adder4bits00" -impl "adder4bits0" -dev LCMXO2-7000HE-5TG144C -synthesis "synplify"
+prj_project save
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder4bits00/anda00.vhdl"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder4bits00/xora00.vhdl"
+#Stop recording: 8/26/2021 11:50:11

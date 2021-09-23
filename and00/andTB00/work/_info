@@ -1,0 +1,93 @@
+m255
+K4
+z2
+!s11e vcom 2020.3 2020.10, Oct 14 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/and00/andTB00
+Eand00
+Z1 w1629737198
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z4 8C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/and00/andTB00/and00.vhdl
+Z5 FC:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/and00/andTB00/and00.vhdl
+l0
+L4 1
+V4?FbIXK2V[aKF1H<>zn>41
+!s100 ;XHoJ15l>ebaM0e1U?SR92
+Z6 OT;C;2020.3;71
+32
+Z7 !s110 1629813600
+!i10b 1
+Z8 !s108 1629813599.000000
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/and00/andTB00/and00.vhdl|
+Z10 !s107 C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/and00/andTB00/and00.vhdl|
+!i113 1
+Z11 o-work work -O0
+Z12 tExplicit 1 CvgOpt 0
+Aand0
+R2
+R3
+DEx4 work 5 and00 0 22 4?FbIXK2V[aKF1H<>zn>41
+!i122 0
+l12
+L11 4
+V2z`[0cZOk9aHIjOf:2`T82
+!s100 cRaEB9mCbjIzMBO9e:1VO1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eandtestbench00
+Z13 w1629812820
+R2
+R3
+!i122 1
+R0
+Z14 8C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/and00/andTB00/andtestbench00.vhdl
+Z15 FC:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/and00/andTB00/andtestbench00.vhdl
+l0
+L4 1
+VfmWIVMzZWgPE@8AIbzDAW3
+!s100 U]?]>K[RnJf^[Qf_L32[=1
+R6
+32
+R7
+!i10b 1
+Z16 !s108 1629813600.000000
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/and00/andTB00/andtestbench00.vhdl|
+!s107 C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/and00/andTB00/andtestbench00.vhdl|
+!i113 1
+R11
+R12
+Aandtestbench0
+R2
+R3
+DEx4 work 14 andtestbench00 0 22 fmWIVMzZWgPE@8AIbzDAW3
+!i122 1
+l17
+L7 35
+VijKmeQ`JPeIb<h<j:U4eB0
+!s100 lSND[Jnz_UZ^bF8gJBd=03
+R6
+32
+R7
+!i10b 1
+R16
+R17
+Z18 !s107 C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/and00/andTB00/andtestbench00.vhdl|
+!i113 1
+R11
+R12

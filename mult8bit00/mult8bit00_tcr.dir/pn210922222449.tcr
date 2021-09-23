@@ -1,0 +1,8 @@
+#Start recording tcl command: 9/22/2021 22:23:30
+#Project Location: C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/mult4bit00; Project name: mult8bit00
+prj_project new -name "mult8bit00" -impl "mult8bit0" -dev LCMXO2-7000HE-5TG144C -synthesis "synplify"
+prj_project save
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/fa00vhdl/anda00.vhdl" "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/fa00vhdl/fa00.vhdl" "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/fa00vhdl/ha00.vhdl" "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/fa00vhdl/orao00.vhdl" "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/fa00vhdl/packagefa00.vhdl" "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/fa00vhdl/pakageha00.vhdl" "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/fa00vhdl/xora00.vhdl"
+prj_project save
+prj_project close
+#Stop recording: 9/22/2021 22:24:49

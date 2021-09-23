@@ -1,0 +1,5 @@
+#Start recording tcl command: 9/21/2021 09:55:04
+#Project Location: C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00; Project name: adder8bit00
+prj_project open "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit00.ldf"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/adder8bit0.spf"
+#Stop recording: 9/21/2021 10:09:55

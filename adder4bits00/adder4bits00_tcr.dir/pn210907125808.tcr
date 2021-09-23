@@ -1,0 +1,11 @@
+#Start recording tcl command: 9/7/2021 08:37:01
+#Project Location: C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder4bits00; Project name: adder4bits00
+prj_project open "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder4bits00/adder4bits00.ldf"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder4bits00/xnora00.vhdl"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder4bits00/packageadder4bit00.vhdl"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder4bits00/adder4bit00.vhdl"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder4bits00/testbenchadder4bit00.vhdl"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder4bits00/testbenchadder4bit00/testbenchadder4bit00.spf"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder4bits00/testbenchadder4bit00/testbenchadder4bit00.spf"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder4bits00/testbenchadder4bit00/testbenchadder4bit00.spf"
+#Stop recording: 9/7/2021 12:58:08

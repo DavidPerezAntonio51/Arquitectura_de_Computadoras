@@ -1,0 +1,9 @@
+#Start recording tcl command: 9/23/2021 11:25:20
+#Project Location: C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/oscsim00; Project name: oscsim00
+prj_project new -name "oscsim00" -impl "oscsim0" -dev LCMXO2-7000HE-5TG144C -synthesis "synplify"
+prj_project save
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/oscsim00/and00.vhdl"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/oscsim00/oscTestBench00.vhdl"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/oscsim00/oscTB00/oscTB00.spf"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/oscsim00/oscTB00/oscTB00.spf"
+#Stop recording: 9/23/2021 12:01:23

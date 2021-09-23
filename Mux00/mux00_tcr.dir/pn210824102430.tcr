@@ -1,0 +1,6 @@
+#Start recording tcl command: 8/24/2021 09:48:17
+#Project Location: C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/Mux00; Project name: mux00
+prj_project new -name "mux00" -impl "mux0" -dev LCMXO2-7000HE-5TG144C -synthesis "synplify"
+prj_project save
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/Mux00/mux00.vhdl"
+#Stop recording: 8/24/2021 10:24:30

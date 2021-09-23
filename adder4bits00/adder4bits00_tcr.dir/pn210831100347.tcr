@@ -1,0 +1,11 @@
+#Start recording tcl command: 8/31/2021 08:36:38
+#Project Location: C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder4bits00; Project name: adder4bits00
+prj_project open "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder4bits00/adder4bits00.ldf"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder4bits00/pakageha00.vhdl"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder4bits00/ha00.vhdl"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder4bits00/orao.vhdl"
+prj_src remove "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder4bits00/orao.vhdl"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder4bits00/orao00.vhdl"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder4bits00/packagefa00.vhdl"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder4bits00/fa00.vhdl"
+#Stop recording: 8/31/2021 10:03:47

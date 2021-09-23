@@ -1,0 +1,411 @@
+m255
+K4
+z2
+!s11e vcom 2020.3 2020.10, Oct 14 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00
+Eadder8bit00
+Z1 w1631232901
+Z2 DPx4 work 18 packageadder8bit00 0 22 T0?le=4NoE]_e]V^?oE<M1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 9
+R0
+Z5 8C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/adder8bit00.vhdl
+Z6 FC:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/adder8bit00.vhdl
+l0
+L5 1
+VlW88NI;`@0UC73jQ6;[=I0
+!s100 eUI9M^_beJ<OejY13zKLN3
+Z7 OT;C;2020.3;71
+32
+Z8 !s110 1631232955
+!i10b 1
+Z9 !s108 1631232955.000000
+Z10 !s90 -reportprogress|300|-work|work|C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/adder8bit00.vhdl|
+Z11 !s107 C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/adder8bit00.vhdl|
+!i113 1
+Z12 o-work work -O0
+Z13 tExplicit 1 CvgOpt 0
+Aadder8bit0
+R2
+R3
+R4
+DEx4 work 11 adder8bit00 0 22 lW88NI;`@0UC73jQ6;[=I0
+!i122 9
+l17
+L14 83
+VW:iTDC9^=LkL:eID^9Wb`0
+!s100 1j1KY0k6d`m8deC>]DgM<3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eanda00
+Z14 w1629996273
+R3
+R4
+!i122 3
+R0
+Z15 8C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/anda00.vhdl
+Z16 FC:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/anda00.vhdl
+l0
+L4 1
+VhM=h8CHa_3:JcGbT05?;C3
+!s100 74iV]KAN=8];6YSWH`lSA1
+R7
+32
+R8
+!i10b 1
+Z17 !s108 1631232954.000000
+Z18 !s90 -reportprogress|300|-work|work|C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/anda00.vhdl|
+Z19 !s107 C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/anda00.vhdl|
+!i113 1
+R12
+R13
+Aanda0
+R3
+R4
+DEx4 work 6 anda00 0 22 hM=h8CHa_3:JcGbT05?;C3
+!i122 3
+l12
+Z20 L11 4
+VUXJ;fVWU^ez[8k@R8Wli72
+!s100 O?:FEY@0HD0?IWb7WCI]z1
+R7
+32
+R8
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R12
+R13
+Efa00
+Z21 w1630597250
+Z22 DPx4 work 11 packagefa00 0 22 5e9H@[?OjN=61LIK4m>fA2
+R3
+R4
+!i122 8
+R0
+Z23 8C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/fa00.vhdl
+Z24 FC:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/fa00.vhdl
+l0
+L6 1
+V[Rdl74TfkM>FO_SJFB5_E0
+!s100 DJ54]MoHU@PnYoFJP=[O>0
+R7
+32
+R8
+!i10b 1
+R9
+Z25 !s90 -reportprogress|300|-work|work|C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/fa00.vhdl|
+Z26 !s107 C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/fa00.vhdl|
+!i113 1
+R12
+R13
+Afa0
+R22
+R3
+R4
+DEx4 work 4 fa00 0 22 [Rdl74TfkM>FO_SJFB5_E0
+!i122 8
+l19
+L15 27
+V=;EEYIJQG3POAocm<aGMm0
+!s100 G07jA]jNLWk69H@Y1XX6H3
+R7
+32
+R8
+!i10b 1
+R9
+R25
+R26
+!i113 1
+R12
+R13
+Eha00
+Z27 w1630418280
+Z28 DPx4 work 10 pakageha00 0 22 _flO=lkoz4aQ<GJmO7Dmo3
+R3
+R4
+!i122 7
+R0
+Z29 8C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/ha00.vhdl
+Z30 FC:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/ha00.vhdl
+l0
+L6 1
+VSzoRRZzPZP34=7EY3Gd@O0
+!s100 F6OUXV4g79PL:6O<HCiKT2
+R7
+32
+R8
+!i10b 1
+R9
+Z31 !s90 -reportprogress|300|-work|work|C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/ha00.vhdl|
+Z32 !s107 C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/ha00.vhdl|
+!i113 1
+R12
+R13
+Aha0
+R28
+R3
+R4
+DEx4 work 4 ha00 0 22 SzoRRZzPZP34=7EY3Gd@O0
+!i122 7
+l15
+L14 11
+VBWm=GOgin;MCF=A4mDaWN2
+!s100 3N[P13N>l3gM5zCSLKfa?1
+R7
+32
+R8
+!i10b 1
+R9
+R31
+R32
+!i113 1
+R12
+R13
+Eorao00
+Z33 w1630419415
+R3
+R4
+!i122 6
+R0
+Z34 8C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/orao00.vhdl
+Z35 FC:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/orao00.vhdl
+l0
+L4 1
+Vk^3Ldd4ccMFa[iMbLLB;83
+!s100 _B5kFHz42R93<MZ[4TM>X3
+R7
+32
+R8
+!i10b 1
+R9
+Z36 !s90 -reportprogress|300|-work|work|C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/orao00.vhdl|
+Z37 !s107 C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/orao00.vhdl|
+!i113 1
+R12
+R13
+Aorao0
+R3
+R4
+DEx4 work 6 orao00 0 22 k^3Ldd4ccMFa[iMbLLB;83
+!i122 6
+l12
+R20
+Vl6gjfU49SEZI:9;]iC^cC1
+!s100 1o^Te5bYk;h_9XG3U3<b62
+R7
+32
+R8
+!i10b 1
+R9
+R36
+R37
+!i113 1
+R12
+R13
+Ppackageadder8bit00
+R3
+R4
+!i122 2
+w1631217491
+R0
+8C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/packageadder8bit00.vhdl
+FC:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/packageadder8bit00.vhdl
+l0
+L4 1
+VT0?le=4NoE]_e]V^?oE<M1
+!s100 ecPzR58Y[W2iP7?PanMAz0
+R7
+32
+Z38 !s110 1631232954
+!i10b 1
+R17
+!s90 -reportprogress|300|-work|work|C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/packageadder8bit00.vhdl|
+!s107 C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/packageadder8bit00.vhdl|
+!i113 1
+R12
+R13
+Ppackagefa00
+R3
+R4
+!i122 0
+w1630419692
+R0
+8C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/packagefa00.vhdl
+FC:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/packagefa00.vhdl
+l0
+L4 1
+V5e9H@[?OjN=61LIK4m>fA2
+!s100 UbaTh?o<N0mFb4S>7mZQ]2
+R7
+32
+R38
+!i10b 1
+R17
+!s90 -reportprogress|300|-work|work|C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/packagefa00.vhdl|
+!s107 C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/packagefa00.vhdl|
+!i113 1
+R12
+R13
+Ppakageha00
+R3
+R4
+!i122 1
+w1630418204
+R0
+8C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/pakageha00.vhdl
+FC:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/pakageha00.vhdl
+l0
+L4 1
+V_flO=lkoz4aQ<GJmO7Dmo3
+!s100 03:IdAQSoOR2aUhiK^FgO1
+R7
+32
+R38
+!i10b 1
+R17
+!s90 -reportprogress|300|-work|work|C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/pakageha00.vhdl|
+!s107 C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/pakageha00.vhdl|
+!i113 1
+R12
+R13
+Etestbenchadder8bit00
+Z39 w1631232325
+R3
+R4
+!i122 10
+R0
+Z40 8C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/testbenchadder8bit00.vhdl
+Z41 FC:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/testbenchadder8bit00.vhdl
+l0
+L4 1
+VlH<:@a]`YWmf>VakMVdKe0
+!s100 dc?UJ6QnfS1aEf<j4cY0z1
+R7
+32
+R8
+!i10b 1
+R9
+Z42 !s90 -reportprogress|300|-work|work|C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/testbenchadder8bit00.vhdl|
+!s107 C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/testbenchadder8bit00.vhdl|
+!i113 1
+R12
+R13
+Atestbenchadder8bit0
+R3
+R4
+DEx4 work 20 testbenchadder8bit00 0 22 lH<:@a]`YWmf>VakMVdKe0
+!i122 10
+l18
+L7 57
+VP=TQ=Yljln]QIljI0X^z>0
+!s100 =f:NYVVGBOCSoz:H=7Eoo0
+R7
+32
+R8
+!i10b 1
+R9
+R42
+Z43 !s107 C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/testbenchadder8bit00.vhdl|
+!i113 1
+R12
+R13
+Exnora00
+Z44 w1631022398
+R3
+R4
+!i122 4
+R0
+Z45 8C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/xnora00.vhdl
+Z46 FC:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/xnora00.vhdl
+l0
+L4 1
+V5L^5=`6l<hHWQPV?V9RMo1
+!s100 fT5cXTF1U8?4AEH?nDoz21
+R7
+32
+R8
+!i10b 1
+R9
+Z47 !s90 -reportprogress|300|-work|work|C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/xnora00.vhdl|
+Z48 !s107 C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/xnora00.vhdl|
+!i113 1
+R12
+R13
+Axnora0
+R3
+R4
+DEx4 work 7 xnora00 0 22 5L^5=`6l<hHWQPV?V9RMo1
+!i122 4
+l12
+R20
+VG<?4D_7K?6TcJ4I<gz[_W2
+!s100 goMVa^iza6A_<k6>7>hMb3
+R7
+32
+R8
+!i10b 1
+R9
+R47
+R48
+!i113 1
+R12
+R13
+Exora00
+Z49 w1629996402
+R3
+R4
+!i122 5
+R0
+Z50 8C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/xora00.vhdl
+Z51 FC:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/xora00.vhdl
+l0
+L4 1
+V[DV]I3f;2gHz1J1l[c3Jm2
+!s100 8TXAY83h^l]mBfb3TgB_H0
+R7
+32
+R8
+!i10b 1
+R9
+Z52 !s90 -reportprogress|300|-work|work|C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/xora00.vhdl|
+Z53 !s107 C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/testbenchadder8bit00/xora00.vhdl|
+!i113 1
+R12
+R13
+Axra0
+R3
+R4
+DEx4 work 6 xora00 0 22 [DV]I3f;2gHz1J1l[c3Jm2
+!i122 5
+l12
+R20
+VCchMJQ?;X?QEblF1Ae0VR1
+!s100 3==mlkC1388`X8mnXiDSc1
+R7
+32
+R8
+!i10b 1
+R9
+R52
+R53
+!i113 1
+R12
+R13

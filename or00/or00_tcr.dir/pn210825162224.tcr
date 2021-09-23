@@ -1,0 +1,9 @@
+#Start recording tcl command: 8/25/2021 16:17:26
+#Project Location: C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/or00; Project name: or00
+prj_project new -name "or00" -impl "or0" -dev LCMXO2-7000HE-5TG144C -synthesis "synplify"
+prj_project save
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/or00/or00.vhdl"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/or00/ortestbench00.vhdl"
+prj_project save
+prj_project close
+#Stop recording: 8/25/2021 16:22:24

@@ -1,0 +1,9 @@
+#Start recording tcl command: 8/25/2021 16:36:12
+#Project Location: C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/xnor00; Project name: xnor00
+prj_project new -name "xnor00" -impl "xnor0" -dev LCMXO2-7000HE-5TG144C -synthesis "synplify"
+prj_project save
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/xnor00/xnor00.vhdl"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/xnor00/xnortestbench00.vhdl"
+prj_project save
+prj_project close
+#Stop recording: 8/25/2021 16:39:10

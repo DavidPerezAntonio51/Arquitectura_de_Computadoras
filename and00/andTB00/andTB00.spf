@@ -1,0 +1,8 @@
+<BaliSimProject version="1.3" path="." stage="0" language="-1" name="andTB00" simType="ModelSim">
+    <Source worklib="work" path="andTB00/and00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="andTB00/andtestbench00.vhdl" type="VHDL" include="none"/>
+    <SimLib value="pmi_work ovi_machxo2"/>
+    <GlbInc value=""/>
+    <Macro value=""/>
+    <TopModule instance="" language="VHDL" name="andtestbench00"/>
+</BaliSimProject>

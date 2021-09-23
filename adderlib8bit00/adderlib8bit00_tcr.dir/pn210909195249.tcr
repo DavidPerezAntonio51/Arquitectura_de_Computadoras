@@ -1,0 +1,8 @@
+#Start recording tcl command: 9/9/2021 19:36:53
+#Project Location: C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adderlib8bit00; Project name: adderlib8bit00
+prj_project new -name "adderlib8bit00" -impl "adderlin8bit0" -dev LCMXO2-7000HE-5TG144C -synthesis "synplify"
+prj_project save
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adderlib8bit00/adderlib8bit00.vhdl"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adderlib8bit00/testbenchadderlib8bit00.vhdl"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adderlib8bit00/adderlib8bit00/adderlib8bit00.spf"
+#Stop recording: 9/9/2021 19:52:49

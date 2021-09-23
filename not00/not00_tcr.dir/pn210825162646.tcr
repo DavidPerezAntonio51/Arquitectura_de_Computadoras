@@ -1,0 +1,9 @@
+#Start recording tcl command: 8/25/2021 16:22:24
+#Project Location: C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/not00; Project name: not00
+prj_project new -name "not00" -impl "not0" -dev LCMXO2-7000HE-5TG144C -synthesis "synplify"
+prj_project save
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/not00/not00.vhdl"
+prj_src add "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/not00/nottestbench00.vhdl"
+prj_project save
+prj_project close
+#Stop recording: 8/25/2021 16:26:46
