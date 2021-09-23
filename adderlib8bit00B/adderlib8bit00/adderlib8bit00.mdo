@@ -1,0 +1,17 @@
+if {![file exists "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adderlib8bit00/adderlib8bit00/adderlib8bit00.mpf"]} { 
+	project new "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adderlib8bit00/adderlib8bit00" adderlib8bit00
+	project addfile "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adderlib8bit00/adderlib8bit00/adderlib8bit00.vhdl"
+	project addfile "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adderlib8bit00/adderlib8bit00/testbenchadderlib8bit00.vhdl"
+	vlib  work
+	vdel -lib work -all 
+	vlib work
+	vcom -work work "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adderlib8bit00/adderlib8bit00/adderlib8bit00.vhdl"
+	vcom -work work "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adderlib8bit00/adderlib8bit00/testbenchadderlib8bit00.vhdl"
+} else {
+	project open "C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adderlib8bit00/adderlib8bit00/adderlib8bit00"
+	project compileoutofdate
+}
+vsim -L work -L pmi_work -L ovi_machxo2  testbenchadderlib8bit00
+view wave
+add wave /*
+run 1000ns
