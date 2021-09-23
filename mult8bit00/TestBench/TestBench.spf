@@ -1,0 +1,16 @@
+<BaliSimProject version="1.3" path="." stage="0" language="-1" name="TestBench" simType="ModelSim">
+    <Source worklib="work" path="TestBench/packagefa00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="TestBench/pakageha00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="TestBench/packagemult8bit00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="TestBench/orao00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="TestBench/xora00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="TestBench/anda00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="TestBench/ha00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="TestBench/fa00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="TestBench/mult8bit00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="TestBench/mult8bitTestBench00.vhdl" type="VHDL" include="none"/>
+    <SimLib value="pmi_work ovi_machxo2"/>
+    <GlbInc value=""/>
+    <Macro value=""/>
+    <TopModule instance="" language="VHDL" name="mult8bitTestBench00"/>
+</BaliSimProject>
