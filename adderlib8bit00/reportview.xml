@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Report>
 <ReportView version="2.0">
-    <Implement name="mult4bit0">
+    <Implement name="adderlin8bit0">
         <ToolReport id="tooldec" path="" status="0"/>
-        <ToolReport id="toolhle_genhierarchy" path="C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adderlib8bit00/mult4bit0/hdla_gen_hierarchy.html" status="1"/>
+        <ToolReport id="toolhle_genhierarchy" path="" status="0"/>
         <ToolReport id="toolpio" path="" status="0"/>
         <ToolReport id="toolsso" path="" status="0"/>
     </Implement>

@@ -1,0 +1,5 @@
+#Start recording tcl command: 9/24/2021 14:44:23
+#Project Location: D:/GIT/Arquitectura_de_Computadoras/adderlib8bit00; Project name: adderlib8bit00
+prj_project open "D:/GIT/Arquitectura_de_Computadoras/adderlib8bit00/adderlib8bit00.ldf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/adderlib8bit00/adderlib8bitTestBench/adderlib8bitTestBench.spf"
+#Stop recording: 9/24/2021 14:47:02
