@@ -1,30 +1,30 @@
 # Reading pref.tcl
-# do {C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adderlib8bit00/adderlib8bit00/adderlib8bit00.mdo}
-# Loading project adderlib8bit00
+# do {D:/GIT/Arquitectura_de_Computadoras/adderlib8bit00B/testbench/testbench.mdo}
+# Loading project testbench
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 19:40:36 on Sep 09,2021
-# vcom -reportprogress 300 -work work C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adderlib8bit00/adderlib8bit00/adderlib8bit00.vhdl 
+# Start time: 10:53:39 on Sep 27,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/adderlib8bit00B/testbench/adderlib8bit00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Loading package std_logic_arith
-# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package STD_LOGIC_SIGNED
 # -- Compiling entity adderlib8bit00
 # -- Compiling architecture adderlib8bit0 of adderlib8bit00
-# End time: 19:40:36 on Sep 09,2021, Elapsed time: 0:00:00
+# End time: 10:53:39 on Sep 27,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 19:40:36 on Sep 09,2021
-# vcom -reportprogress 300 -work work C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adderlib8bit00/adderlib8bit00/testbenchadderlib8bit00.vhdl 
+# Start time: 10:53:39 on Sep 27,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/adderlib8bit00B/testbench/testbenchadderlib8bit00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity testbenchadderlib8bit00
 # -- Compiling architecture testbenchadderlib8bit0 of testbenchadderlib8bit00
-# End time: 19:40:36 on Sep 09,2021, Elapsed time: 0:00:00
+# End time: 10:53:39 on Sep 27,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vsim -L work -L pmi_work -L ovi_machxo2 testbenchadderlib8bit00 
-# Start time: 19:40:37 on Sep 09,2021
+# Start time: 10:53:40 on Sep 27,2021
 # //  ModelSim - Lattice FPGA Edition 2020.3 Oct 14 2020
 # //
 # //  Copyright 1991-2020 Mentor Graphics Corporation
@@ -43,10 +43,8 @@
 # Loading ieee.std_logic_1164(body)
 # Loading work.testbenchadderlib8bit00(testbenchadderlib8bit0)
 # Loading ieee.std_logic_arith(body)
-# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.std_logic_signed(body)
 # Loading work.adderlib8bit00(adderlib8bit0)
-# ** Warning: (vsim-8683) Uninitialized out port /testbenchadderlib8bit00/adder/LED has no driver.
-# This port will contribute value (U) to the signal network.
 # .main_pane.wave.interior.cs.body.pw.wf
-# End time: 19:52:53 on Sep 09,2021, Elapsed time: 0:12:16
-# Errors: 0, Warnings: 6
+# End time: 10:55:58 on Sep 27,2021, Elapsed time: 0:02:18
+# Errors: 0, Warnings: 5

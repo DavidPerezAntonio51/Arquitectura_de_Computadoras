@@ -1,0 +1,17 @@
+if {![file exists "D:/GIT/Arquitectura_de_Computadoras/adderlib8bit00/testbench/testbench.mpf"]} { 
+	project new "D:/GIT/Arquitectura_de_Computadoras/adderlib8bit00/testbench" testbench
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/adderlib8bit00/testbench/adderlib8bit00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/adderlib8bit00/testbench/testbenchadderlib8bit00.vhdl"
+	vlib  work
+	vdel -lib work -all 
+	vlib work
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/adderlib8bit00/testbench/adderlib8bit00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/adderlib8bit00/testbench/testbenchadderlib8bit00.vhdl"
+} else {
+	project open "D:/GIT/Arquitectura_de_Computadoras/adderlib8bit00/testbench/testbench"
+	project compileoutofdate
+}
+vsim -L work -L pmi_work -L ovi_machxo2  testbenchadderlib8bit00
+view wave
+add wave /*
+run 1000ns
