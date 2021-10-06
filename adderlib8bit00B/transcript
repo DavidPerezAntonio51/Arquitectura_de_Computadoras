@@ -2,7 +2,7 @@
 # do {D:/GIT/Arquitectura_de_Computadoras/adderlib8bit00B/testbench/testbench.mdo}
 # Loading project testbench
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 10:53:39 on Sep 27,2021
+# Start time: 10:22:40 on Sep 30,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/adderlib8bit00B/testbench/adderlib8bit00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -11,20 +11,20 @@
 # -- Loading package STD_LOGIC_SIGNED
 # -- Compiling entity adderlib8bit00
 # -- Compiling architecture adderlib8bit0 of adderlib8bit00
-# End time: 10:53:39 on Sep 27,2021, Elapsed time: 0:00:00
+# End time: 10:22:41 on Sep 30,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 10:53:39 on Sep 27,2021
+# Start time: 10:22:41 on Sep 30,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/adderlib8bit00B/testbench/testbenchadderlib8bit00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity testbenchadderlib8bit00
 # -- Compiling architecture testbenchadderlib8bit0 of testbenchadderlib8bit00
-# End time: 10:53:39 on Sep 27,2021, Elapsed time: 0:00:00
+# End time: 10:22:41 on Sep 30,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vsim -L work -L pmi_work -L ovi_machxo2 testbenchadderlib8bit00 
-# Start time: 10:53:40 on Sep 27,2021
+# Start time: 10:22:41 on Sep 30,2021
 # //  ModelSim - Lattice FPGA Edition 2020.3 Oct 14 2020
 # //
 # //  Copyright 1991-2020 Mentor Graphics Corporation
@@ -46,5 +46,16 @@
 # Loading ieee.std_logic_signed(body)
 # Loading work.adderlib8bit00(adderlib8bit0)
 # .main_pane.wave.interior.cs.body.pw.wf
-# End time: 10:55:58 on Sep 27,2021, Elapsed time: 0:02:18
+# WARNING: No extended dataflow license exists
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# End time: 11:50:18 on Sep 30,2021, Elapsed time: 1:27:37
 # Errors: 0, Warnings: 5

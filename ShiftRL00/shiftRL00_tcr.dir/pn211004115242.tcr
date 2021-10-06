@@ -1,0 +1,6 @@
+#Start recording tcl command: 10/4/2021 11:03:10
+#Project Location: D:/GIT/Arquitectura_de_Computadoras/ShiftRL00; Project name: shiftRL00
+prj_project open "D:/GIT/Arquitectura_de_Computadoras/ShiftRL00/shiftRL00.ldf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/ShiftRL00/packageshiftRL00.vhdl"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/ShiftRL00/shiftRL.vhdl"
+#Stop recording: 10/4/2021 11:52:42

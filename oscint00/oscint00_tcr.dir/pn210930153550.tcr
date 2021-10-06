@@ -1,0 +1,5 @@
+#Start recording tcl command: 9/30/2021 15:35:32
+#Project Location: D:/GIT/Arquitectura_de_Computadoras/oscint00; Project name: oscint00
+prj_project open "D:/GIT/Arquitectura_de_Computadoras/oscint00/oscint00.ldf"
+prj_project close
+#Stop recording: 9/30/2021 15:35:50

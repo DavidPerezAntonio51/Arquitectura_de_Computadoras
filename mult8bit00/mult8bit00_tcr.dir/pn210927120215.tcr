@@ -1,0 +1,5 @@
+#Start recording tcl command: 9/27/2021 11:44:10
+#Project Location: D:/GIT/Arquitectura_de_Computadoras/mult8bit00; Project name: mult8bit00
+prj_project open "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/mult8bit00.ldf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/TestBench.spf"
+#Stop recording: 9/27/2021 12:02:15

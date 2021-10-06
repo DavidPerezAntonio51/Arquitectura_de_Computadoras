@@ -18,6 +18,9 @@
         <Source name="adderlib8bitTestBench/adderlib8bitTestBench.spf" type="Simulation Project File" type_short="SPF">
             <Options/>
         </Source>
+        <Source name="testbench/testbench.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
     </Implementation>
     <Strategy name="Strategy1" file="adderlib8bit001.sty"/>
 </BaliProject>

@@ -1,118 +1,118 @@
 # Reading pref.tcl
-# do {C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/adder8bit0.mdo}
-# Loading project adder8bit0
+# do {D:/GIT/Arquitectura_de_Computadoras/adder8bit00/Testbench/Testbench.mdo}
+# Loading project Testbench
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 09:56:01 on Sep 21,2021
-# vcom -reportprogress 300 -work work C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/packagefa00.vhdl 
+# Start time: 19:55:30 on Sep 28,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/adder8bit00/Testbench/packagefa00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package packagefa00
-# End time: 09:56:01 on Sep 21,2021, Elapsed time: 0:00:00
+# End time: 19:55:31 on Sep 28,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 09:56:01 on Sep 21,2021
-# vcom -reportprogress 300 -work work C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/pakageha00.vhdl 
+# Start time: 19:55:31 on Sep 28,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/adder8bit00/Testbench/pakageha00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package pakageha00
-# End time: 09:56:01 on Sep 21,2021, Elapsed time: 0:00:00
+# End time: 19:55:31 on Sep 28,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 09:56:01 on Sep 21,2021
-# vcom -reportprogress 300 -work work C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/packageadder8bit00.vhdl 
+# Start time: 19:55:31 on Sep 28,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/adder8bit00/Testbench/packageadder8bit00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package packageadder8bit00
-# End time: 09:56:01 on Sep 21,2021, Elapsed time: 0:00:00
+# End time: 19:55:31 on Sep 28,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 09:56:02 on Sep 21,2021
-# vcom -reportprogress 300 -work work C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/anda00.vhdl 
+# Start time: 19:55:31 on Sep 28,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/adder8bit00/Testbench/anda00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity anda00
 # -- Compiling architecture anda0 of anda00
-# End time: 09:56:02 on Sep 21,2021, Elapsed time: 0:00:00
+# End time: 19:55:31 on Sep 28,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 09:56:02 on Sep 21,2021
-# vcom -reportprogress 300 -work work C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/xnora00.vhdl 
+# Start time: 19:55:31 on Sep 28,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/adder8bit00/Testbench/xnora00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity xnora00
 # -- Compiling architecture xnora0 of xnora00
-# End time: 09:56:02 on Sep 21,2021, Elapsed time: 0:00:00
+# End time: 19:55:31 on Sep 28,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 09:56:02 on Sep 21,2021
-# vcom -reportprogress 300 -work work C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/xora00.vhdl 
+# Start time: 19:55:31 on Sep 28,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/adder8bit00/Testbench/xora00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity xora00
 # -- Compiling architecture xra0 of xora00
-# End time: 09:56:02 on Sep 21,2021, Elapsed time: 0:00:00
+# End time: 19:55:31 on Sep 28,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 09:56:02 on Sep 21,2021
-# vcom -reportprogress 300 -work work C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/orao00.vhdl 
+# Start time: 19:55:31 on Sep 28,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/adder8bit00/Testbench/orao00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity orao00
 # -- Compiling architecture orao0 of orao00
-# End time: 09:56:02 on Sep 21,2021, Elapsed time: 0:00:00
+# End time: 19:55:31 on Sep 28,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 09:56:02 on Sep 21,2021
-# vcom -reportprogress 300 -work work C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/ha00.vhdl 
+# Start time: 19:55:31 on Sep 28,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/adder8bit00/Testbench/ha00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Loading package pakageha00
 # -- Compiling entity ha00
 # -- Compiling architecture ha0 of ha00
-# End time: 09:56:02 on Sep 21,2021, Elapsed time: 0:00:00
+# End time: 19:55:31 on Sep 28,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 09:56:02 on Sep 21,2021
-# vcom -reportprogress 300 -work work C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/fa00.vhdl 
+# Start time: 19:55:31 on Sep 28,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/adder8bit00/Testbench/fa00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Loading package packagefa00
 # -- Compiling entity fa00
 # -- Compiling architecture fa0 of fa00
-# End time: 09:56:02 on Sep 21,2021, Elapsed time: 0:00:00
+# End time: 19:55:32 on Sep 28,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 09:56:02 on Sep 21,2021
-# vcom -reportprogress 300 -work work C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/adder8bit00.vhdl 
+# Start time: 19:55:32 on Sep 28,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/adder8bit00/Testbench/adder8bit00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Loading package packageadder8bit00
 # -- Compiling entity adder8bit00
 # -- Compiling architecture adder8bit0 of adder8bit00
-# End time: 09:56:02 on Sep 21,2021, Elapsed time: 0:00:00
+# End time: 19:55:32 on Sep 28,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 09:56:02 on Sep 21,2021
-# vcom -reportprogress 300 -work work C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/adder8bit00/adder8bit0/testbenchadder8bit00.vhdl 
+# Start time: 19:55:32 on Sep 28,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/adder8bit00/Testbench/testbenchadder8bit00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity testbenchadder8bit00
 # -- Compiling architecture testbenchadder8bit0 of testbenchadder8bit00
-# End time: 09:56:03 on Sep 21,2021, Elapsed time: 0:00:01
+# End time: 19:55:32 on Sep 28,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vsim -L work -L pmi_work -L ovi_machxo2 testbenchadder8bit00 
-# Start time: 09:56:03 on Sep 21,2021
+# Start time: 19:55:32 on Sep 28,2021
 # //  ModelSim - Lattice FPGA Edition 2020.3 Oct 14 2020
 # //
 # //  Copyright 1991-2020 Mentor Graphics Corporation
@@ -141,5 +141,5 @@
 # Loading work.orao00(orao0)
 # Loading work.xnora00(xnora0)
 # .main_pane.wave.interior.cs.body.pw.wf
-# End time: 10:09:44 on Sep 21,2021, Elapsed time: 0:13:41
+# End time: 20:26:41 on Sep 28,2021, Elapsed time: 0:31:09
 # Errors: 0, Warnings: 14

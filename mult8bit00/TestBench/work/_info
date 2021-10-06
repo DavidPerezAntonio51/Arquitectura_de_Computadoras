@@ -15,19 +15,19 @@ Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
 !i122 5
 R0
-Z4 8D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/anda00.vhdl
-Z5 FD:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/anda00.vhdl
+Z4 8D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/anda00.vhdl
+Z5 FD:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/anda00.vhdl
 l0
 L4 1
 VhM=h8CHa_3:JcGbT05?;C3
 !s100 74iV]KAN=8];6YSWH`lSA1
 Z6 OT;C;2020.3;71
 32
-Z7 !s110 1632434309
+Z7 !s110 1632933925
 !i10b 1
-Z8 !s108 1632434309.000000
-Z9 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/anda00.vhdl|
-Z10 !s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/anda00.vhdl|
+Z8 !s108 1632933925.000000
+Z9 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/anda00.vhdl|
+Z10 !s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/anda00.vhdl|
 !i113 1
 Z11 o-work work -O0
 Z12 tExplicit 1 CvgOpt 0
@@ -57,8 +57,8 @@ R2
 R3
 !i122 7
 R0
-Z16 8D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/fa00.vhdl
-Z17 FD:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/fa00.vhdl
+Z16 8D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/fa00.vhdl
+Z17 FD:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/fa00.vhdl
 l0
 L6 1
 V[Rdl74TfkM>FO_SJFB5_E0
@@ -68,8 +68,8 @@ R6
 R7
 !i10b 1
 R8
-Z18 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/fa00.vhdl|
-Z19 !s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/fa00.vhdl|
+Z18 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/fa00.vhdl|
+Z19 !s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/fa00.vhdl|
 !i113 1
 R11
 R12
@@ -100,8 +100,8 @@ R2
 R3
 !i122 6
 R0
-Z22 8D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/ha00.vhdl
-Z23 FD:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/ha00.vhdl
+Z22 8D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/ha00.vhdl
+Z23 FD:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/ha00.vhdl
 l0
 L6 1
 VSzoRRZzPZP34=7EY3Gd@O0
@@ -111,8 +111,8 @@ R6
 R7
 !i10b 1
 R8
-Z24 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/ha00.vhdl|
-Z25 !s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/ha00.vhdl|
+Z24 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/ha00.vhdl|
+Z25 !s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/ha00.vhdl|
 !i113 1
 R11
 R12
@@ -143,8 +143,8 @@ R2
 R3
 !i122 8
 R0
-Z28 8D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/mult8bit00.vhdl
-Z29 FD:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/mult8bit00.vhdl
+Z28 8D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/mult8bit00.vhdl
+Z29 FD:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/mult8bit00.vhdl
 l0
 L6 1
 ViMiPLDemZ4g5B[BW34X^81
@@ -154,8 +154,8 @@ R6
 R7
 !i10b 1
 R8
-Z30 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/mult8bit00.vhdl|
-Z31 !s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/mult8bit00.vhdl|
+Z30 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/mult8bit00.vhdl|
+Z31 !s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/mult8bit00.vhdl|
 !i113 1
 R11
 R12
@@ -185,19 +185,19 @@ R2
 R3
 !i122 9
 R0
-Z33 8D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/mult8bitTestBench00.vhdl
-Z34 FD:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/mult8bitTestBench00.vhdl
+Z33 8D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/mult8bitTestBench00.vhdl
+Z34 FD:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/mult8bitTestBench00.vhdl
 l0
 L4 1
 VY7g5LDZgBCNYiD3DW?=zM0
 !s100 TPjS7VEE==j2L^@mHSnUN0
 R6
 32
-Z35 !s110 1632434310
+Z35 !s110 1632933926
 !i10b 1
-R8
-Z36 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/mult8bitTestBench00.vhdl|
-!s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/mult8bitTestBench00.vhdl|
+Z36 !s108 1632933926.000000
+Z37 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/mult8bitTestBench00.vhdl|
+!s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/mult8bitTestBench00.vhdl|
 !i113 1
 R11
 R12
@@ -214,20 +214,20 @@ R6
 32
 R35
 !i10b 1
-R8
 R36
-Z37 !s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/mult8bitTestBench00.vhdl|
+R37
+Z38 !s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/mult8bitTestBench00.vhdl|
 !i113 1
 R11
 R12
 Eorao00
-Z38 w1630419415
+Z39 w1630419415
 R2
 R3
 !i122 3
 R0
-Z39 8D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/orao00.vhdl
-Z40 FD:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/orao00.vhdl
+Z40 8D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/orao00.vhdl
+Z41 FD:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/orao00.vhdl
 l0
 L4 1
 Vk^3Ldd4ccMFa[iMbLLB;83
@@ -237,8 +237,8 @@ R6
 R7
 !i10b 1
 R8
-Z41 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/orao00.vhdl|
-Z42 !s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/orao00.vhdl|
+Z42 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/orao00.vhdl|
+Z43 !s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/orao00.vhdl|
 !i113 1
 R11
 R12
@@ -256,8 +256,8 @@ R6
 R7
 !i10b 1
 R8
-R41
 R42
+R43
 !i113 1
 R11
 R12
@@ -267,19 +267,19 @@ R3
 !i122 0
 w1630419692
 R0
-8D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/packagefa00.vhdl
-FD:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/packagefa00.vhdl
+8D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/packagefa00.vhdl
+FD:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/packagefa00.vhdl
 l0
 L4 1
 V5e9H@[?OjN=61LIK4m>fA2
 !s100 UbaTh?o<N0mFb4S>7mZQ]2
 R6
 32
-Z43 !s110 1632434308
+Z44 !s110 1632933924
 !i10b 1
-Z44 !s108 1632434308.000000
-!s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/packagefa00.vhdl|
-!s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/packagefa00.vhdl|
+Z45 !s108 1632933924.000000
+!s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/packagefa00.vhdl|
+!s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/packagefa00.vhdl|
 !i113 1
 R11
 R12
@@ -289,8 +289,8 @@ R3
 !i122 2
 w1632419009
 R0
-8D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/packagemult8bit00.vhdl
-FD:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/packagemult8bit00.vhdl
+8D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/packagemult8bit00.vhdl
+FD:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/packagemult8bit00.vhdl
 l0
 L4 1
 V7cm>>0eH<gMiPmBNK1I?53
@@ -299,9 +299,9 @@ R6
 32
 R7
 !i10b 1
-R44
-!s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/packagemult8bit00.vhdl|
-!s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/packagemult8bit00.vhdl|
+R45
+!s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/packagemult8bit00.vhdl|
+!s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/packagemult8bit00.vhdl|
 !i113 1
 R11
 R12
@@ -311,30 +311,30 @@ R3
 !i122 1
 w1630418204
 R0
-8D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/pakageha00.vhdl
-FD:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/pakageha00.vhdl
+8D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/pakageha00.vhdl
+FD:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/pakageha00.vhdl
 l0
 L4 1
 V_flO=lkoz4aQ<GJmO7Dmo3
 !s100 03:IdAQSoOR2aUhiK^FgO1
 R6
 32
-R43
-!i10b 1
 R44
-!s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/pakageha00.vhdl|
-!s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/pakageha00.vhdl|
+!i10b 1
+R45
+!s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/pakageha00.vhdl|
+!s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/pakageha00.vhdl|
 !i113 1
 R11
 R12
 Exora00
-Z45 w1629996402
+Z46 w1629996402
 R2
 R3
 !i122 4
 R0
-Z46 8D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/xora00.vhdl
-Z47 FD:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/xora00.vhdl
+Z47 8D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/xora00.vhdl
+Z48 FD:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/xora00.vhdl
 l0
 L4 1
 V[DV]I3f;2gHz1J1l[c3Jm2
@@ -344,8 +344,8 @@ R6
 R7
 !i10b 1
 R8
-Z48 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/xora00.vhdl|
-Z49 !s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/xora00.vhdl|
+Z49 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/xora00.vhdl|
+Z50 !s107 D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/xora00.vhdl|
 !i113 1
 R11
 R12
@@ -363,8 +363,8 @@ R6
 R7
 !i10b 1
 R8
-R48
 R49
+R50
 !i113 1
 R11
 R12

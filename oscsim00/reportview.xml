@@ -3,7 +3,7 @@
 <ReportView version="2.0">
     <Implement name="oscsim0">
         <ToolReport id="tooldec" path="" status="0"/>
-        <ToolReport id="toolhle_genhierarchy" path="C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/oscsim00/oscsim0/hdla_gen_hierarchy.html" status="1"/>
+        <ToolReport id="toolhle_genhierarchy" path="D:/GIT/Arquitectura_de_Computadoras/oscsim00/oscsim0/hdla_gen_hierarchy.html" status="1"/>
         <ToolReport id="toolpio" path="" status="0"/>
         <ToolReport id="toolsso" path="" status="0"/>
     </Implement>

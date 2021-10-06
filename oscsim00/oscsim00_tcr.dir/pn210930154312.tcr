@@ -1,0 +1,5 @@
+#Start recording tcl command: 9/30/2021 15:35:50
+#Project Location: D:/GIT/Arquitectura_de_Computadoras/oscsim00; Project name: oscsim00
+prj_project open "D:/GIT/Arquitectura_de_Computadoras/oscsim00/oscsim00.ldf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/oscsim00/testbench/testbench.spf"
+#Stop recording: 9/30/2021 15:43:12

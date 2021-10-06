@@ -1,30 +1,30 @@
-if {![file exists "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/TestBench.mpf"]} { 
-	project new "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench" TestBench
-	project addfile "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/packagefa00.vhdl"
-	project addfile "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/pakageha00.vhdl"
-	project addfile "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/packagemult8bit00.vhdl"
-	project addfile "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/orao00.vhdl"
-	project addfile "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/xora00.vhdl"
-	project addfile "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/anda00.vhdl"
-	project addfile "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/ha00.vhdl"
-	project addfile "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/fa00.vhdl"
-	project addfile "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/mult8bit00.vhdl"
-	project addfile "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/mult8bitTestBench00.vhdl"
+if {![file exists "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/testbench.mpf"]} { 
+	project new "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench" testbench
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/packagefa00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/pakageha00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/packagemult8bit00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/orao00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/xora00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/anda00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/ha00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/fa00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/mult8bit00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/mult8bitTestBench00.vhdl"
 	vlib  work
 	vdel -lib work -all 
 	vlib work
-	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/packagefa00.vhdl"
-	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/pakageha00.vhdl"
-	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/packagemult8bit00.vhdl"
-	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/orao00.vhdl"
-	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/xora00.vhdl"
-	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/anda00.vhdl"
-	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/ha00.vhdl"
-	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/fa00.vhdl"
-	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/mult8bit00.vhdl"
-	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/mult8bitTestBench00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/packagefa00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/pakageha00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/packagemult8bit00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/orao00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/xora00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/anda00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/ha00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/fa00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/mult8bit00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/mult8bitTestBench00.vhdl"
 } else {
-	project open "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/TestBench"
+	project open "D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/testbench"
 	project compileoutofdate
 }
 vsim -L work -L pmi_work -L ovi_machxo2  mult8bitTestBench00

@@ -1,108 +1,108 @@
 # Reading pref.tcl
-# do {D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/TestBench.mdo}
-# Loading project TestBench
+# do {D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/testbench.mdo}
+# Loading project testbench
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 16:58:28 on Sep 23,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/packagefa00.vhdl 
+# Start time: 11:45:24 on Sep 29,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/packagefa00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package packagefa00
-# End time: 16:58:28 on Sep 23,2021, Elapsed time: 0:00:00
+# End time: 11:45:24 on Sep 29,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 16:58:28 on Sep 23,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/pakageha00.vhdl 
+# Start time: 11:45:24 on Sep 29,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/pakageha00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package pakageha00
-# End time: 16:58:28 on Sep 23,2021, Elapsed time: 0:00:00
+# End time: 11:45:24 on Sep 29,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 16:58:28 on Sep 23,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/packagemult8bit00.vhdl 
+# Start time: 11:45:24 on Sep 29,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/packagemult8bit00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package packagemult8bit00
-# End time: 16:58:29 on Sep 23,2021, Elapsed time: 0:00:01
+# End time: 11:45:25 on Sep 29,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 16:58:29 on Sep 23,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/orao00.vhdl 
+# Start time: 11:45:25 on Sep 29,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/orao00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity orao00
 # -- Compiling architecture orao0 of orao00
-# End time: 16:58:29 on Sep 23,2021, Elapsed time: 0:00:00
+# End time: 11:45:25 on Sep 29,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 16:58:29 on Sep 23,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/xora00.vhdl 
+# Start time: 11:45:25 on Sep 29,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/xora00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity xora00
 # -- Compiling architecture xra0 of xora00
-# End time: 16:58:29 on Sep 23,2021, Elapsed time: 0:00:00
+# End time: 11:45:25 on Sep 29,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 16:58:29 on Sep 23,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/anda00.vhdl 
+# Start time: 11:45:25 on Sep 29,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/anda00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity anda00
 # -- Compiling architecture anda0 of anda00
-# End time: 16:58:29 on Sep 23,2021, Elapsed time: 0:00:00
+# End time: 11:45:25 on Sep 29,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 16:58:29 on Sep 23,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/ha00.vhdl 
+# Start time: 11:45:25 on Sep 29,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/ha00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Loading package pakageha00
 # -- Compiling entity ha00
 # -- Compiling architecture ha0 of ha00
-# End time: 16:58:29 on Sep 23,2021, Elapsed time: 0:00:00
+# End time: 11:45:25 on Sep 29,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 16:58:29 on Sep 23,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/fa00.vhdl 
+# Start time: 11:45:25 on Sep 29,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/fa00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Loading package packagefa00
 # -- Compiling entity fa00
 # -- Compiling architecture fa0 of fa00
-# End time: 16:58:29 on Sep 23,2021, Elapsed time: 0:00:00
+# End time: 11:45:25 on Sep 29,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 16:58:29 on Sep 23,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/mult8bit00.vhdl 
+# Start time: 11:45:25 on Sep 29,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/mult8bit00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Loading package packagemult8bit00
 # -- Compiling entity mult8bit00
 # -- Compiling architecture mult8bit0 of mult8bit00
-# End time: 16:58:29 on Sep 23,2021, Elapsed time: 0:00:00
+# End time: 11:45:26 on Sep 29,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 16:58:29 on Sep 23,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/mult8bit00/TestBench/mult8bitTestBench00.vhdl 
+# Start time: 11:45:26 on Sep 29,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/mult8bit00/testbench/mult8bitTestBench00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity mult8bitTestBench00
 # -- Compiling architecture mult8bitTestBench0 of mult8bitTestBench00
-# End time: 16:58:30 on Sep 23,2021, Elapsed time: 0:00:01
+# End time: 11:45:26 on Sep 29,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vsim -L work -L pmi_work -L ovi_machxo2 mult8bitTestBench00 
-# Start time: 16:58:30 on Sep 23,2021
+# Start time: 11:45:27 on Sep 29,2021
 # //  ModelSim - Lattice FPGA Edition 2020.3 Oct 14 2020
 # //
 # //  Copyright 1991-2020 Mentor Graphics Corporation
@@ -130,5 +130,5 @@
 # Loading work.xora00(xra0)
 # Loading work.orao00(orao0)
 # .main_pane.wave.interior.cs.body.pw.wf
-# End time: 17:01:29 on Sep 23,2021, Elapsed time: 0:02:59
+# End time: 11:47:06 on Sep 29,2021, Elapsed time: 0:01:39
 # Errors: 0, Warnings: 13

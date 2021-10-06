@@ -42,6 +42,9 @@
         <Source name="adder8bit00.lpf" type="Logic Preference" type_short="LPF">
             <Options/>
         </Source>
+        <Source name="Testbench/Testbench.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
         <Source name="testbenchadder8bit00/testbenchadder8bit00.spf" type="Simulation Project File" type_short="SPF">
             <Options/>
         </Source>

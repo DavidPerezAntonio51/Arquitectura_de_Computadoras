@@ -1,28 +1,28 @@
 # Reading pref.tcl
-# do {C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/oscsim00/oscTB00/oscTB00.mdo}
-# Loading project oscTB00
+# do {D:/GIT/Arquitectura_de_Computadoras/oscsim00/testbench/testbench.mdo}
+# Loading project testbench
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 11:47:08 on Sep 23,2021
-# vcom -reportprogress 300 -work work C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/oscsim00/oscTB00/and00.vhdl 
+# Start time: 15:36:24 on Sep 30,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/oscsim00/testbench/and00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity and00
 # -- Compiling architecture and0 of and00
-# End time: 11:47:08 on Sep 23,2021, Elapsed time: 0:00:00
+# End time: 15:36:25 on Sep 30,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 11:47:08 on Sep 23,2021
-# vcom -reportprogress 300 -work work C:/Users/DEZKS/Documents/my_Desings/Arquitectura de Computadoras/Proyectos/oscsim00/oscTB00/oscTestBench00.vhdl 
+# Start time: 15:36:25 on Sep 30,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/oscsim00/testbench/oscTestBench00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity oscTestBench00
 # -- Compiling architecture oscTestBench0 of oscTestBench00
-# End time: 11:47:09 on Sep 23,2021, Elapsed time: 0:00:01
+# End time: 15:36:25 on Sep 30,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vsim -L work -L pmi_work -L ovi_machxo2 oscTestBench00 
-# Start time: 11:47:09 on Sep 23,2021
+# Start time: 15:36:25 on Sep 30,2021
 # //  ModelSim - Lattice FPGA Edition 2020.3 Oct 14 2020
 # //
 # //  Copyright 1991-2020 Mentor Graphics Corporation
@@ -42,5 +42,5 @@
 # Loading work.osctestbench00(osctestbench0)
 # Loading work.and00(and0)
 # .main_pane.wave.interior.cs.body.pw.wf
-# End time: 11:57:52 on Sep 23,2021, Elapsed time: 0:10:43
+# End time: 15:42:59 on Sep 30,2021, Elapsed time: 0:06:34
 # Errors: 0, Warnings: 5

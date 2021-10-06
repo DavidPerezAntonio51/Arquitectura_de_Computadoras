@@ -1,14 +1,14 @@
-<BaliSimProject version="1.3" path="." stage="0" language="-1" name="TestBench" simType="ModelSim">
-    <Source worklib="work" path="TestBench/packagefa00.vhdl" type="VHDL" include="none"/>
-    <Source worklib="work" path="TestBench/pakageha00.vhdl" type="VHDL" include="none"/>
-    <Source worklib="work" path="TestBench/packagemult8bit00.vhdl" type="VHDL" include="none"/>
-    <Source worklib="work" path="TestBench/orao00.vhdl" type="VHDL" include="none"/>
-    <Source worklib="work" path="TestBench/xora00.vhdl" type="VHDL" include="none"/>
-    <Source worklib="work" path="TestBench/anda00.vhdl" type="VHDL" include="none"/>
-    <Source worklib="work" path="TestBench/ha00.vhdl" type="VHDL" include="none"/>
-    <Source worklib="work" path="TestBench/fa00.vhdl" type="VHDL" include="none"/>
-    <Source worklib="work" path="TestBench/mult8bit00.vhdl" type="VHDL" include="none"/>
-    <Source worklib="work" path="TestBench/mult8bitTestBench00.vhdl" type="VHDL" include="none"/>
+<BaliSimProject version="1.3" path="." stage="0" language="-1" name="testbench" simType="ModelSim">
+    <Source worklib="work" path="testbench/packagefa00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="testbench/pakageha00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="testbench/packagemult8bit00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="testbench/orao00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="testbench/xora00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="testbench/anda00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="testbench/ha00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="testbench/fa00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="testbench/mult8bit00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="testbench/mult8bitTestBench00.vhdl" type="VHDL" include="none"/>
     <SimLib value="pmi_work ovi_machxo2"/>
     <GlbInc value=""/>
     <Macro value=""/>
