@@ -1,0 +1,5 @@
+#Start recording tcl command: 10/12/2021 12:14:40
+#Project Location: D:/GIT/Arquitectura_de_Computadoras/barrelMux; Project name: barrelMux
+prj_project open "D:/GIT/Arquitectura_de_Computadoras/barrelMux/barrelMux.ldf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/testbenchbarrel.spf"
+#Stop recording: 10/12/2021 12:20:19

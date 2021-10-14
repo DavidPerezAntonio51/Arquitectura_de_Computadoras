@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BaliProject version="3.2" title="barrelMux" device="LCMXO2-7000HE-5TG144C" default_implementation="barrelMux0">
+    <Options/>
+    <Implementation title="barrelMux0" dir="barrelMux0" description="barrelMux0" synthesis="synplify" default_strategy="Strategy1">
+        <Options def_top="testbenchbarrelMux"/>
+        <Source name="barrelshiftRL.vhdl" type="VHDL" type_short="VHDL">
+            <Options/>
+        </Source>
+        <Source name="barrelshiftLR.vhdl" type="VHDL" type_short="VHDL">
+            <Options/>
+        </Source>
+        <Source name="barrelrotationRL.vhdl" type="VHDL" type_short="VHDL">
+            <Options/>
+        </Source>
+        <Source name="barrelrotationLR.vhdl" type="VHDL" type_short="VHDL">
+            <Options/>
+        </Source>
+        <Source name="packagebarrelMux.vhdl" type="VHDL" type_short="VHDL">
+            <Options/>
+        </Source>
+        <Source name="barrelMux00.vhdl" type="VHDL" type_short="VHDL">
+            <Options/>
+        </Source>
+        <Source name="testbenchbarrelMux.vhdl" type="VHDL" type_short="VHDL">
+            <Options top_module="testbenchbarrelMux"/>
+        </Source>
+        <Source name="barrelMux.lpf" type="Logic Preference" type_short="LPF">
+            <Options/>
+        </Source>
+        <Source name="testbenchbarrel/testbenchbarrel.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+    </Implementation>
+    <Strategy name="Strategy1" file="barrelMux1.sty"/>
+</BaliProject>

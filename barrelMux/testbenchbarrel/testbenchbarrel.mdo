@@ -1,0 +1,27 @@
+if {![file exists "D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/testbenchbarrel.mpf"]} { 
+	project new "D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel" testbenchbarrel
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/packagebarrelMux.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelrotationLR.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelrotationRL.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelshiftLR.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelshiftRL.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelMux00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/testbenchbarrelMux.vhdl"
+	vlib  work
+	vdel -lib work -all 
+	vlib work
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/packagebarrelMux.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelrotationLR.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelrotationRL.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelshiftLR.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelshiftRL.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelMux00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/testbenchbarrelMux.vhdl"
+} else {
+	project open "D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/testbenchbarrel"
+	project compileoutofdate
+}
+vsim -L work -L pmi_work -L ovi_machxo2  testbenchbarrelMux
+view wave
+add wave /*
+run 1000ns

@@ -1,0 +1,27 @@
+if {![file exists "D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/testbench.mpf"]} { 
+	project new "D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench" testbench
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/packageshiftMux.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationLR.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationRL.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftLR.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftRL.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftMux.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/testbenchShiftMux.vhdl"
+	vlib  work
+	vdel -lib work -all 
+	vlib work
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/packageshiftMux.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationLR.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationRL.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftLR.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftRL.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftMux.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/testbenchShiftMux.vhdl"
+} else {
+	project open "D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/testbench"
+	project compileoutofdate
+}
+vsim -L work -L pmi_work -L ovi_machxo2  testbenchShiftMux
+view wave
+add wave /*
+run 1000ns

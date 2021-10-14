@@ -1,0 +1,5 @@
+#Start recording tcl command: 10/12/2021 08:43:18
+#Project Location: D:/GIT/Arquitectura_de_Computadoras/word00; Project name: word00
+prj_project open "D:/GIT/Arquitectura_de_Computadoras/word00/word00.ldf"
+prj_project close
+#Stop recording: 10/12/2021 09:03:13

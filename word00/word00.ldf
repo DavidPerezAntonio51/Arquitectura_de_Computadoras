@@ -2,8 +2,23 @@
 <BaliProject version="3.2" title="word00" device="LCMXO2-7000HE-5TG144C" default_implementation="word0">
     <Options/>
     <Implementation title="word0" dir="word0" description="word0" synthesis="synplify" default_strategy="Strategy1">
-        <Options/>
+        <Options def_top="testbenchword00"/>
         <Source name="contring00.vhdl" type="VHDL" type_short="VHDL">
+            <Options/>
+        </Source>
+        <Source name="coder00.vhdl" type="VHDL" type_short="VHDL">
+            <Options/>
+        </Source>
+        <Source name="packageword00.vhdl" type="VHDL" type_short="VHDL">
+            <Options/>
+        </Source>
+        <Source name="word00.vhdl" type="VHDL" type_short="VHDL">
+            <Options/>
+        </Source>
+        <Source name="testbenchword00.vhdl" type="VHDL" type_short="VHDL">
+            <Options top_module="testbenchword00"/>
+        </Source>
+        <Source name="testbenchword/testbenchword.spf" type="Simulation Project File" type_short="SPF">
             <Options/>
         </Source>
         <Source name="word00.lpf" type="Logic Preference" type_short="LPF">

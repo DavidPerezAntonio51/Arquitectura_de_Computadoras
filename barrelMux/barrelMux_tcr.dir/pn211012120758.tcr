@@ -1,0 +1,14 @@
+#Start recording tcl command: 10/12/2021 10:41:46
+#Project Location: D:/GIT/Arquitectura_de_Computadoras/shiftMux; Project name: barrelMux
+prj_project new -name "barrelMux" -impl "barrelMux0" -dev LCMXO2-7000HE-5TG144C -synthesis "synplify"
+prj_project save
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/shiftMux/barrelshiftRL.vhdl"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/shiftMux/barrelshiftLR.vhdl"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/shiftMux/barrelrotationRL.vhdl"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/shiftMux/barrelrotationLR.vhdl"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/shiftMux/packagebarrelMux.vhdl"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/shiftMux/barrelMux00.vhdl"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbenchbarrelMux.vhdl"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbenchbarrel/testbenchbarrel.spf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbenchbarrel/testbenchbarrel.spf"
+#Stop recording: 10/12/2021 12:07:58
