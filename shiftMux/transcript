@@ -1,86 +1,80 @@
 # Reading pref.tcl
-# do {D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbenchbarrel/testbenchbarrel.mdo}
-# Loading project testbenchbarrel
+# do {D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/testbench.mdo}
+# Loading project testbench
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 11:20:41 on Oct 12,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbenchbarrel/packagebarrelMux.vhdl 
+# Start time: 16:57:08 on Oct 15,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/packageshiftMux.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
-# -- Compiling package packagebarrelMux
-# End time: 11:20:41 on Oct 12,2021, Elapsed time: 0:00:00
+# -- Compiling package packageshiftMux
+# End time: 16:57:09 on Oct 15,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 11:20:41 on Oct 12,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbenchbarrel/barrelrotationLR.vhdl 
+# Start time: 16:57:09 on Oct 15,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationLR.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
-# -- Loading package std_logic_arith
-# -- Loading package STD_LOGIC_UNSIGNED
-# -- Compiling entity barrelrotationLR
-# -- Compiling architecture barrelrotationLR0 of barrelrotationLR
-# End time: 11:20:41 on Oct 12,2021, Elapsed time: 0:00:00
+# -- Compiling entity rotationLR
+# -- Compiling architecture rotationLR0 of rotationLR
+# End time: 16:57:09 on Oct 15,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 11:20:42 on Oct 12,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbenchbarrel/barrelrotationRL.vhdl 
+# Start time: 16:57:09 on Oct 15,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationRL.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
-# -- Loading package std_logic_arith
-# -- Loading package STD_LOGIC_UNSIGNED
-# -- Compiling entity barrelrotationRL
-# -- Compiling architecture barrelrotationRL0 of barrelrotationRL
-# End time: 11:20:42 on Oct 12,2021, Elapsed time: 0:00:00
+# -- Compiling entity rotationRL
+# -- Compiling architecture rotationRL0 of rotationRL
+# End time: 16:57:09 on Oct 15,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 11:20:42 on Oct 12,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbenchbarrel/barrelshiftLR.vhdl 
+# Start time: 16:57:09 on Oct 15,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftLR.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
-# -- Loading package std_logic_arith
-# -- Loading package STD_LOGIC_UNSIGNED
-# -- Compiling entity barrelshiftLR
-# -- Compiling architecture barrelshiftLR0 of barrelshiftLR
-# End time: 11:20:42 on Oct 12,2021, Elapsed time: 0:00:00
+# -- Compiling entity shiftLR
+# -- Compiling architecture shiftLR0 of shiftLR
+# End time: 16:57:09 on Oct 15,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 11:20:42 on Oct 12,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbenchbarrel/barrelshiftRL.vhdl 
+# Start time: 16:57:09 on Oct 15,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftRL.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Loading package std_logic_arith
 # -- Loading package STD_LOGIC_UNSIGNED
-# -- Compiling entity barrelshiftRL
-# -- Compiling architecture barrelshiftRL0 of barrelshiftRL
-# End time: 11:20:42 on Oct 12,2021, Elapsed time: 0:00:00
+# -- Compiling entity shiftRL
+# -- Compiling architecture shiftRL0 of shiftRL
+# End time: 16:57:09 on Oct 15,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 11:20:42 on Oct 12,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbenchbarrel/barrelMux00.vhdl 
+# Start time: 16:57:10 on Oct 15,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftMux.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
-# -- Loading package packagebarrelMux
-# -- Compiling entity barrelMux00
-# -- Compiling architecture barrelMux0 of barrelMux00
-# End time: 11:20:42 on Oct 12,2021, Elapsed time: 0:00:00
+# -- Loading package packageshiftMux
+# -- Compiling entity mux00
+# -- Compiling architecture mux0 of mux00
+# End time: 16:57:10 on Oct 15,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 11:20:42 on Oct 12,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbenchbarrel/testbenchbarrelMux.vhdl 
+# Start time: 16:57:10 on Oct 15,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/testbenchShiftMux.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
-# -- Compiling entity testbenchbarrelMux
-# -- Compiling architecture testbenchbarrelMux0 of testbenchbarrelMux
-# End time: 11:20:42 on Oct 12,2021, Elapsed time: 0:00:00
+# -- Compiling entity testbenchShiftMux
+# -- Compiling architecture testbenchShiftMux0 of testbenchShiftMux
+# End time: 16:57:10 on Oct 15,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vsim -L work -L pmi_work -L ovi_machxo2 testbenchbarrelMux 
-# Start time: 11:20:42 on Oct 12,2021
+# vsim -L work -L pmi_work -L ovi_machxo2 testbenchShiftMux 
+# Start time: 16:57:10 on Oct 15,2021
 # //  ModelSim - Lattice FPGA Edition 2020.3 Oct 14 2020
 # //
 # //  Copyright 1991-2020 Mentor Graphics Corporation
@@ -97,15 +91,16 @@
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
-# Loading work.testbenchbarrelmux(testbenchbarrelmux0)
-# Loading work.packagebarrelmux
-# Loading work.barrelmux00(barrelmux0)
+# Loading work.testbenchshiftmux(testbenchshiftmux0)
+# Loading work.packageshiftmux
+# Loading work.mux00(mux0)
 # Loading ieee.std_logic_arith(body)
 # Loading ieee.std_logic_unsigned(body)
-# Loading work.barrelshiftrl(barrelshiftrl0)
-# Loading work.barrelshiftlr(barrelshiftlr0)
-# Loading work.barrelrotationrl(barrelrotationrl0)
-# Loading work.barrelrotationlr(barrelrotationlr0)
+# Loading work.shiftrl(shiftrl0)
+# Loading work.shiftlr(shiftlr0)
+# Loading work.rotationrl(rotationrl0)
+# Loading work.rotationlr(rotationlr0)
 # .main_pane.wave.interior.cs.body.pw.wf
-# End time: 11:23:15 on Oct 12,2021, Elapsed time: 0:02:33
+# A bookmark named "bookmark0" has been added for window "Wave"
+# End time: 17:32:57 on Oct 15,2021, Elapsed time: 0:35:47
 # Errors: 0, Warnings: 10

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BaliProject version="3.2" title="rom00" device="LCMXO2-7000HE-5TG144C" default_implementation="rom0">
+    <Options/>
+    <Implementation title="rom0" dir="rom0" description="rom0" synthesis="synplify" default_strategy="Strategy1">
+        <Options/>
+        <Source name="rom00.lpf" type="Logic Preference" type_short="LPF">
+            <Options/>
+        </Source>
+    </Implementation>
+    <Strategy name="Strategy1" file="rom001.sty"/>
+</BaliProject>

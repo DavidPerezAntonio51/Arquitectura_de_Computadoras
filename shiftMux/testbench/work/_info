@@ -24,9 +24,9 @@ VPAQ<3ZWTN:8fA<U]R=S0Y3
 !s100 _zTl`?0`o^im8C:V7>QYL2
 Z7 OT;C;2020.3;71
 32
-Z8 !s110 1634052630
+Z8 !s110 1634335030
 !i10b 1
-Z9 !s108 1634052630.000000
+Z9 !s108 1634335030.000000
 Z10 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftMux.vhdl|
 Z11 !s107 D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftMux.vhdl|
 !i113 1
@@ -66,33 +66,33 @@ V3]T^hRk8`_J[PYIn[A28P0
 !s100 PWzB<Ka?lLJ4YzOfhZC?i1
 R7
 32
-R8
+Z14 !s110 1634335029
 !i10b 1
-R9
+!s108 1634335028.000000
 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/packageshiftMux.vhdl|
 !s107 D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/packageshiftMux.vhdl|
 !i113 1
 R12
 R13
 Erotationlr
-Z14 w1634052194
+Z15 w1634052194
 R3
 R4
 !i122 1
 R0
-Z15 8D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationLR.vhdl
-Z16 FD:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationLR.vhdl
+Z16 8D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationLR.vhdl
+Z17 FD:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationLR.vhdl
 l0
 L4 1
 VUA7lZHLCC1kzE9ml0PDeF0
 !s100 _V@AKE3^iI6OZi6JndTV_2
 R7
 32
-R8
+R14
 !i10b 1
-R9
-Z17 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationLR.vhdl|
-Z18 !s107 D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationLR.vhdl|
+Z18 !s108 1634335029.000000
+Z19 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationLR.vhdl|
+Z20 !s107 D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationLR.vhdl|
 !i113 1
 R12
 R13
@@ -102,38 +102,38 @@ R4
 DEx4 work 10 rotationlr 0 22 UA7lZHLCC1kzE9ml0PDeF0
 !i122 1
 l14
-Z19 L12 19
+Z21 L12 19
 Vi8WA=T?=>ATVz9liA=R:a3
 !s100 gIcCee7LZL]3n1eY1TcYG2
 R7
 32
-R8
+R14
 !i10b 1
-R9
-R17
 R18
+R19
+R20
 !i113 1
 R12
 R13
 Erotationrl
-Z20 w1634052204
+Z22 w1634052204
 R3
 R4
 !i122 2
 R0
-Z21 8D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationRL.vhdl
-Z22 FD:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationRL.vhdl
+Z23 8D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationRL.vhdl
+Z24 FD:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationRL.vhdl
 l0
 L4 1
 V<cN>;No@DG1eZg>o89Vh92
 !s100 l`g7;n1TLZ0FzRZ8d1A3h0
 R7
 32
-R8
+R14
 !i10b 1
-R9
-Z23 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationRL.vhdl|
-Z24 !s107 D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationRL.vhdl|
+R18
+Z25 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationRL.vhdl|
+Z26 !s107 D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/rotationRL.vhdl|
 !i113 1
 R12
 R13
@@ -143,38 +143,38 @@ R4
 DEx4 work 10 rotationrl 0 22 <cN>;No@DG1eZg>o89Vh92
 !i122 2
 l14
-R19
+R21
 V]UBFI`NDo`TGa9A@EfNhF1
 !s100 ?;2d=SH:F@SLSe]@70Mc_3
 R7
 32
-R8
+R14
 !i10b 1
-R9
-R23
-R24
+R18
+R25
+R26
 !i113 1
 R12
 R13
 Eshiftlr
-Z25 w1634052229
+Z27 w1634052229
 R3
 R4
 !i122 3
 R0
-Z26 8D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftLR.vhdl
-Z27 FD:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftLR.vhdl
+Z28 8D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftLR.vhdl
+Z29 FD:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftLR.vhdl
 l0
 L4 1
 VBl7_l8=T]ehZ7_VQ[iDEz2
 !s100 zM1UNOP[?eXP32RI:[^bm0
 R7
 32
-R8
+R14
 !i10b 1
-R9
-Z28 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftLR.vhdl|
-Z29 !s107 D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftLR.vhdl|
+R18
+Z30 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftLR.vhdl|
+Z31 !s107 D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftLR.vhdl|
 !i113 1
 R12
 R13
@@ -184,68 +184,72 @@ R4
 DEx4 work 7 shiftlr 0 22 Bl7_l8=T]ehZ7_VQ[iDEz2
 !i122 3
 l14
-R19
+R21
 V4;8=d:O37A5fC3d5Al_8S2
 !s100 2M7U5nB`SYg@nMOzelN7P1
 R7
 32
-R8
+R14
 !i10b 1
-R9
-R28
-R29
+R18
+R30
+R31
 !i113 1
 R12
 R13
 Eshiftrl
-Z30 w1634052217
+Z32 w1634054323
+Z33 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z34 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
 R3
 R4
 !i122 4
 R0
-Z31 8D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftRL.vhdl
-Z32 FD:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftRL.vhdl
+Z35 8D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftRL.vhdl
+Z36 FD:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftRL.vhdl
 l0
-L4 1
-V@R59@NDlNV]mGYCjd903[3
-!s100 3IT??RgHPkk07I>jh`Ql70
+L5 1
+VLjQJSiJ3I[3;naH:Tn<0g3
+!s100 ngeU3M3m>mCJiTEB0mRaX1
 R7
 32
-R8
+R14
 !i10b 1
-R9
-Z33 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftRL.vhdl|
-Z34 !s107 D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftRL.vhdl|
+R18
+Z37 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftRL.vhdl|
+Z38 !s107 D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/shiftRL.vhdl|
 !i113 1
 R12
 R13
 Ashiftrl0
-R3
-R4
-DEx4 work 7 shiftrl 0 22 @R59@NDlNV]mGYCjd903[3
-!i122 4
-l14
-R19
-Vzdi[R@^Y^2@2d>m^H1[f11
-!s100 A[]e6O?0_1F8bZIP<AC^31
-R7
-32
-R8
-!i10b 1
-R9
 R33
 R34
+R3
+R4
+DEx4 work 7 shiftrl 0 22 LjQJSiJ3I[3;naH:Tn<0g3
+!i122 4
+l15
+L13 19
+VcgPP^TCXXI7f0W6=lHzVc0
+!s100 EU<:CPN_ETC0d<lU;o5c40
+R7
+32
+R14
+!i10b 1
+R18
+R37
+R38
 !i113 1
 R12
 R13
 Etestbenchshiftmux
-Z35 w1634052583
+Z39 w1634052802
 R3
 R4
 !i122 6
 R0
-Z36 8D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/testbenchShiftMux.vhdl
-Z37 FD:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/testbenchShiftMux.vhdl
+Z40 8D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/testbenchShiftMux.vhdl
+Z41 FD:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/testbenchShiftMux.vhdl
 l0
 L4 1
 V3Y_EWXzKHez@3e<eOZ=H40
@@ -255,7 +259,7 @@ R7
 R8
 !i10b 1
 R9
-Z38 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/testbenchShiftMux.vhdl|
+Z42 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/testbenchShiftMux.vhdl|
 !s107 D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/testbenchShiftMux.vhdl|
 !i113 1
 R12
@@ -267,15 +271,15 @@ DEx4 work 17 testbenchshiftmux 0 22 3Y_EWXzKHez@3e<eOZ=H40
 !i122 6
 l20
 L8 56
-VL63ZhQc_?8OgN7WCNO8V20
-!s100 ?lf3TN`nQ2BR22Z^CAMFJ2
+VL==Zk^f9;Mg9NmVO>>^`92
+!s100 lXf9Yjc7^9=[4`7@PC<d@2
 R7
 32
 R8
 !i10b 1
 R9
-R38
-Z39 !s107 D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/testbenchShiftMux.vhdl|
+R42
+Z43 !s107 D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/testbenchShiftMux.vhdl|
 !i113 1
 R12
 R13

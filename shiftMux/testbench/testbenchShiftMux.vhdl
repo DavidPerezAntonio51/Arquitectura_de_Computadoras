@@ -57,7 +57,7 @@ begin
 		sSel<="11";
 		wait for 20 ns;
 		sens<='1';
-		wait for 200 ns;
+		wait;
 		
 	end process estimulos;
 end architecture;

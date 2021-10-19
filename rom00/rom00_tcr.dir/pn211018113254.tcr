@@ -1,0 +1,5 @@
+#Start recording tcl command: 10/18/2021 11:32:03
+#Project Location: D:/GIT/Arquitectura_de_Computadoras/rom00; Project name: rom00
+prj_project new -name "rom00" -impl "rom0" -dev LCMXO2-7000HE-5TG144C -synthesis "synplify"
+prj_project save
+#Stop recording: 10/18/2021 11:32:54

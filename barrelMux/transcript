@@ -2,16 +2,16 @@
 # do {D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/testbenchbarrel.mdo}
 # Loading project testbenchbarrel
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 12:15:29 on Oct 12,2021
+# Start time: 10:37:46 on Oct 18,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/packagebarrelMux.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package packagebarrelMux
-# End time: 12:15:30 on Oct 12,2021, Elapsed time: 0:00:01
+# End time: 10:37:46 on Oct 18,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 12:15:30 on Oct 12,2021
+# Start time: 10:37:46 on Oct 18,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelrotationLR.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -20,10 +20,10 @@
 # -- Loading package STD_LOGIC_UNSIGNED
 # -- Compiling entity barrelrotationLR
 # -- Compiling architecture barrelrotationLR0 of barrelrotationLR
-# End time: 12:15:30 on Oct 12,2021, Elapsed time: 0:00:00
+# End time: 10:37:46 on Oct 18,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 12:15:30 on Oct 12,2021
+# Start time: 10:37:46 on Oct 18,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelrotationRL.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -32,10 +32,10 @@
 # -- Loading package STD_LOGIC_UNSIGNED
 # -- Compiling entity barrelrotationRL
 # -- Compiling architecture barrelrotationRL0 of barrelrotationRL
-# End time: 12:15:30 on Oct 12,2021, Elapsed time: 0:00:00
+# End time: 10:37:46 on Oct 18,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 12:15:30 on Oct 12,2021
+# Start time: 10:37:47 on Oct 18,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelshiftLR.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -44,10 +44,10 @@
 # -- Loading package STD_LOGIC_UNSIGNED
 # -- Compiling entity barrelshiftLR
 # -- Compiling architecture barrelshiftLR0 of barrelshiftLR
-# End time: 12:15:30 on Oct 12,2021, Elapsed time: 0:00:00
+# End time: 10:37:47 on Oct 18,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 12:15:30 on Oct 12,2021
+# Start time: 10:37:47 on Oct 18,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelshiftRL.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -56,10 +56,10 @@
 # -- Loading package STD_LOGIC_UNSIGNED
 # -- Compiling entity barrelshiftRL
 # -- Compiling architecture barrelshiftRL0 of barrelshiftRL
-# End time: 12:15:30 on Oct 12,2021, Elapsed time: 0:00:00
+# End time: 10:37:47 on Oct 18,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 12:15:31 on Oct 12,2021
+# Start time: 10:37:47 on Oct 18,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelMux00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -67,20 +67,20 @@
 # -- Loading package packagebarrelMux
 # -- Compiling entity barrelMux00
 # -- Compiling architecture barrelMux0 of barrelMux00
-# End time: 12:15:31 on Oct 12,2021, Elapsed time: 0:00:00
+# End time: 10:37:47 on Oct 18,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 12:15:31 on Oct 12,2021
+# Start time: 10:37:47 on Oct 18,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/testbenchbarrelMux.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity testbenchbarrelMux
 # -- Compiling architecture testbenchbarrelMux0 of testbenchbarrelMux
-# End time: 12:15:31 on Oct 12,2021, Elapsed time: 0:00:00
+# End time: 10:37:47 on Oct 18,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vsim -L work -L pmi_work -L ovi_machxo2 testbenchbarrelMux 
-# Start time: 12:15:31 on Oct 12,2021
+# Start time: 10:37:47 on Oct 18,2021
 # //  ModelSim - Lattice FPGA Edition 2020.3 Oct 14 2020
 # //
 # //  Copyright 1991-2020 Mentor Graphics Corporation
@@ -107,5 +107,13 @@
 # Loading work.barrelrotationrl(barrelrotationrl0)
 # Loading work.barrelrotationlr(barrelrotationlr0)
 # .main_pane.wave.interior.cs.body.pw.wf
-# End time: 12:16:21 on Oct 12,2021, Elapsed time: 0:00:50
+# WARNING: No extended dataflow license exists
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# End time: 11:38:02 on Oct 18,2021, Elapsed time: 1:00:15
 # Errors: 0, Warnings: 10

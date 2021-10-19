@@ -1,0 +1,6 @@
+#Start recording tcl command: 10/15/2021 16:56:28
+#Project Location: D:/GIT/Arquitectura_de_Computadoras/shiftMux; Project name: shiftmux00
+prj_project open "D:/GIT/Arquitectura_de_Computadoras/shiftMux/shiftmux00.ldf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/shiftMux/testbench/testbench.spf"
+prj_project close
+#Stop recording: 10/15/2021 17:33:20

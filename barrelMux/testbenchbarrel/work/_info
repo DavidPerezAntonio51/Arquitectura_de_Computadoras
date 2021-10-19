@@ -24,9 +24,9 @@ VDCKb>egD@Ch^2=;jQ=QP=2
 !s100 GU;:LSczNVQ`j;^cicb110
 Z7 OT;C;2020.3;71
 32
-Z8 !s110 1634058931
+Z8 !s110 1634571467
 !i10b 1
-Z9 !s108 1634058931.000000
+Z9 !s108 1634571467.000000
 Z10 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelMux00.vhdl|
 Z11 !s107 D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelMux00.vhdl|
 !i113 1
@@ -68,9 +68,9 @@ V@RdHLz3?_AlR?@JjPdKA]0
 !s100 oYA3L0]J00Aa0ce0[0fk^1
 R7
 32
-Z19 !s110 1634058930
+Z19 !s110 1634571466
 !i10b 1
-Z20 !s108 1634058930.000000
+Z20 !s108 1634571466.000000
 Z21 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelrotationLR.vhdl|
 Z22 !s107 D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelrotationLR.vhdl|
 !i113 1
@@ -158,9 +158,9 @@ V5VjD4J`3FA3eFfRZHR2Nc0
 !s100 VT>of=9T?k@WWk`z4ifQo1
 R7
 32
-R19
+R8
 !i10b 1
-R20
+R9
 Z32 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelshiftLR.vhdl|
 Z33 !s107 D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelshiftLR.vhdl|
 !i113 1
@@ -179,9 +179,9 @@ VQlBh^QmeJ7mhcBc5KRfVL2
 !s100 <Ij`[Y]YfWUSPMS8mcXjm2
 R7
 32
-R19
+R8
 !i10b 1
-R20
+R9
 R32
 R33
 !i113 1
@@ -203,9 +203,9 @@ Vmk2gSNW@^BI@UVU=gOJ<<0
 !s100 HReF<i:63V73`gFFa]?nn1
 R7
 32
-R19
+R8
 !i10b 1
-R20
+R9
 Z37 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelshiftRL.vhdl|
 Z38 !s107 D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/barrelshiftRL.vhdl|
 !i113 1
@@ -224,9 +224,9 @@ V0@7PMil]JIE?kOlPUnXQK3
 !s100 bKXdTGH5;[h_DQnccEIl42
 R7
 32
-R19
+R8
 !i10b 1
-R20
+R9
 R37
 R38
 !i113 1
@@ -248,7 +248,7 @@ R7
 32
 R19
 !i10b 1
-!s108 1634058929.000000
+R20
 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/packagebarrelMux.vhdl|
 !s107 D:/GIT/Arquitectura_de_Computadoras/barrelMux/testbenchbarrel/packagebarrelMux.vhdl|
 !i113 1
