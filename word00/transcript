@@ -1,58 +1,58 @@
 # Reading pref.tcl
-# do {D:/GIT/Arquitectura_de_Computadoras/word00/testbenchword/testbenchword.mdo}
-# Loading project testbenchword
+# do {D:/GIT/Arquitectura_de_Computadoras/word00/testbench/testbench.mdo}
+# Loading project testbench
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 19:13:16 on Oct 12,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/word00/testbenchword/packageword00.vhdl 
+# Start time: 10:08:44 on Oct 26,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/word00/packageword00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package packageword00
-# End time: 19:13:16 on Oct 12,2021, Elapsed time: 0:00:00
+# End time: 10:08:44 on Oct 26,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 19:13:16 on Oct 12,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/word00/testbenchword/coder00.vhdl 
+# Start time: 10:08:44 on Oct 26,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/word00/coder00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity coder00
 # -- Compiling architecture coder0 of coder00
-# End time: 19:13:16 on Oct 12,2021, Elapsed time: 0:00:00
+# End time: 10:08:44 on Oct 26,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 19:13:16 on Oct 12,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/word00/testbenchword/contring00.vhdl 
+# Start time: 10:08:44 on Oct 26,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/word00/contring00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity contring00
 # -- Compiling architecture contring0 of contring00
-# End time: 19:13:16 on Oct 12,2021, Elapsed time: 0:00:00
+# End time: 10:08:45 on Oct 26,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 19:13:16 on Oct 12,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/word00/testbenchword/word00.vhdl 
+# Start time: 10:08:45 on Oct 26,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/word00/word00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Loading package packageword00
 # -- Compiling entity word00
 # -- Compiling architecture word0 of word00
-# End time: 19:13:16 on Oct 12,2021, Elapsed time: 0:00:00
+# End time: 10:08:45 on Oct 26,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 19:13:16 on Oct 12,2021
-# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/word00/testbenchword/testbenchword00.vhdl 
+# Start time: 10:08:45 on Oct 26,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/word00/testbenchword00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity testbenchword00
 # -- Compiling architecture testbenchword0 of testbenchword00
-# End time: 19:13:17 on Oct 12,2021, Elapsed time: 0:00:01
+# End time: 10:08:45 on Oct 26,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vsim -L work -L pmi_work -L ovi_machxo2 testbenchword00 
-# Start time: 19:13:17 on Oct 12,2021
+# Start time: 10:08:45 on Oct 26,2021
 # //  ModelSim - Lattice FPGA Edition 2020.3 Oct 14 2020
 # //
 # //  Copyright 1991-2020 Mentor Graphics Corporation
@@ -75,5 +75,5 @@
 # Loading work.contring00(contring0)
 # Loading work.coder00(coder0)
 # .main_pane.wave.interior.cs.body.pw.wf
-# End time: 19:15:30 on Oct 12,2021, Elapsed time: 0:02:13
+# End time: 10:12:27 on Oct 26,2021, Elapsed time: 0:03:42
 # Errors: 0, Warnings: 8

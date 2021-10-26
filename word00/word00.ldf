@@ -18,6 +18,9 @@
         <Source name="testbenchword00.vhdl" type="VHDL" type_short="VHDL">
             <Options top_module="testbenchword00"/>
         </Source>
+        <Source name="testbench/testbench.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
         <Source name="testbenchword/testbenchword.spf" type="Simulation Project File" type_short="SPF">
             <Options/>
         </Source>

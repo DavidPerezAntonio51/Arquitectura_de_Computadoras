@@ -1,0 +1,8 @@
+#Start recording tcl command: 10/26/2021 10:02:19
+#Project Location: D:/GIT/Arquitectura_de_Computadoras/word00; Project name: word00
+prj_project open "D:/GIT/Arquitectura_de_Computadoras/word00/word00.ldf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/word00/testbench/testbench.spf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/word00/testbench/testbench.spf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/word00/testbench/testbench.spf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/word00/testbench/testbench.spf"
+#Stop recording: 10/26/2021 10:12:24

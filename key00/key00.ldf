@@ -2,7 +2,7 @@
 <BaliProject version="3.2" title="key00" device="LCMXO2-7000HE-5TG144C" default_implementation="key0">
     <Options/>
     <Implementation title="key0" dir="key0" description="key0" synthesis="synplify" default_strategy="Strategy1">
-        <Options/>
+        <Options def_top="coder00"/>
         <Source name="contring00.vhdl" type="VHDL" type_short="VHDL">
             <Options top_module="contring00"/>
         </Source>

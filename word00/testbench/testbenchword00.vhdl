@@ -31,6 +31,6 @@ begin
 		en <= '0';
 		wait for 20 ns;
 		en <= '1';
-		wait;
+		wait for 120 ns;
 	end process;
 end architecture;
