@@ -1,0 +1,79 @@
+# Reading pref.tcl
+# do {D:/GIT/Arquitectura_de_Computadoras/key00/testbench/testbench.mdo}
+# Loading project testbench
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 10:30:58 on Nov 18,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/key00/packagekey00.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package packagekey00
+# End time: 10:30:58 on Nov 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 10:30:58 on Nov 18,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/key00/coder00.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity coder00
+# -- Compiling architecture coder0 of coder00
+# End time: 10:30:58 on Nov 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 10:30:58 on Nov 18,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/key00/contring00.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity contring00
+# -- Compiling architecture contring0 of contring00
+# End time: 10:30:59 on Nov 18,2021, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 10:30:59 on Nov 18,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/key00/key00.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package packagekey00
+# -- Compiling entity key00
+# -- Compiling architecture key0 of key00
+# End time: 10:30:59 on Nov 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 10:30:59 on Nov 18,2021
+# vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/key00/testbenchkey00.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity testbenchkey00
+# -- Compiling architecture testbenchkey0 of testbenchkey00
+# End time: 10:30:59 on Nov 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -L work -L pmi_work -L ovi_machxo2 testbenchkey00 
+# Start time: 10:30:59 on Nov 18,2021
+# //  ModelSim - Lattice FPGA Edition 2020.3 Oct 14 2020
+# //
+# //  Copyright 1991-2020 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim - Lattice FPGA Edition and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.testbenchkey00(testbenchkey0)
+# Loading work.packagekey00
+# Loading work.key00(key0)
+# Loading work.contring00(contring0)
+# Loading work.coder00(coder0)
+# .main_pane.wave.interior.cs.body.pw.wf
+# End time: 10:59:14 on Nov 18,2021, Elapsed time: 0:28:15
+# Errors: 0, Warnings: 8

@@ -2,14 +2,26 @@
 <BaliProject version="3.2" title="key00" device="LCMXO2-7000HE-5TG144C" default_implementation="key0">
     <Options/>
     <Implementation title="key0" dir="key0" description="key0" synthesis="synplify" default_strategy="Strategy1">
-        <Options def_top="coder00"/>
+        <Options def_top="testbenchkey00"/>
         <Source name="contring00.vhdl" type="VHDL" type_short="VHDL">
-            <Options top_module="contring00"/>
+            <Options/>
         </Source>
         <Source name="coder00.vhdl" type="VHDL" type_short="VHDL">
-            <Options top_module="coder00"/>
+            <Options/>
+        </Source>
+        <Source name="packagekey00.vhdl" type="VHDL" type_short="VHDL">
+            <Options/>
+        </Source>
+        <Source name="key00.vhdl" type="VHDL" type_short="VHDL">
+            <Options/>
+        </Source>
+        <Source name="testbenchkey00.vhdl" type="VHDL" type_short="VHDL">
+            <Options top_module="testbenchkey00"/>
         </Source>
         <Source name="key00.lpf" type="Logic Preference" type_short="LPF">
+            <Options/>
+        </Source>
+        <Source name="testbench/testbench.spf" type="Simulation Project File" type_short="SPF">
             <Options/>
         </Source>
     </Implementation>

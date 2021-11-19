@@ -1,0 +1,8 @@
+#Start recording tcl command: 11/8/2021 10:37:39
+#Project Location: D:/GIT/Arquitectura_de_Computadoras/ram00; Project name: ram00
+prj_project open "D:/GIT/Arquitectura_de_Computadoras/ram00/ram00.ldf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/ram00/contread00.vhdl"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/ram00/muxram00.vhdl"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/ram00/packageram00.vhdl"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/ram00/ram00.vhdl"
+#Stop recording: 11/8/2021 12:11:30

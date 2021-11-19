@@ -1,0 +1,16 @@
+#Start recording tcl command: 10/26/2021 16:26:08
+#Project Location: D:/GIT/Arquitectura_de_Computadoras/key00; Project name: key00
+prj_project open "D:/GIT/Arquitectura_de_Computadoras/key00/key00.ldf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/key00/packagekey00.vhdl"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/key00/key00.vhdl"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/key00/testbenchkey00.vhdl"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/key00/testbench/testbench.spf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/key00/testbench/testbench.spf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/key00/testbench/testbench.spf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/key00/testbench/testbench.spf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/key00/testbench/testbench.spf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/key00/testbench/testbench.spf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/key00/testbench/testbench.spf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/key00/testbench/testbench.spf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/key00/testbench/testbench.spf"
+#Stop recording: 10/26/2021 21:39:54

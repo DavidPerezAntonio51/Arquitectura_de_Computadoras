@@ -1,0 +1,11 @@
+#Start recording tcl command: 11/18/2021 10:59:29
+#Project Location: D:/GIT/Arquitectura_de_Computadoras/rom00; Project name: rom00
+prj_project open "D:/GIT/Arquitectura_de_Computadoras/rom00/rom00.ldf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/rom00/packagerom00.vhdl"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/rom00/rom00.vhdl"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/rom00/testbenchrom00.vhdl"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/rom00/testbench/testbench.spf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/rom00/testbench/testbench.spf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/rom00/testbench/testbench.spf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/rom00/testbench/testbench.spf"
+#Stop recording: 11/18/2021 12:00:56

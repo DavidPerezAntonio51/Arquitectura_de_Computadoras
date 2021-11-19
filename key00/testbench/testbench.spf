@@ -1,0 +1,11 @@
+<BaliSimProject version="1.3" path="." stage="0" language="-1" name="testbench" simType="ModelSim">
+    <Source worklib="work" path="packagekey00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="coder00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="contring00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="key00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="testbenchkey00.vhdl" type="VHDL" include="none"/>
+    <SimLib value="pmi_work ovi_machxo2"/>
+    <GlbInc value=""/>
+    <Macro value=""/>
+    <TopModule instance="" language="VHDL" name="testbenchkey00"/>
+</BaliSimProject>

@@ -1,0 +1,9 @@
+#Start recording tcl command: 10/27/2021 18:19:49
+#Project Location: D:/GIT/Arquitectura_de_Computadoras/key00; Project name: key00
+prj_project open "D:/GIT/Arquitectura_de_Computadoras/key00/key00.ldf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/key00/testbench/testbench.spf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/key00/testbench/testbench.spf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/key00/testbench/testbench.spf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/key00/testbench/testbench.spf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/key00/testbench/testbench.spf"
+#Stop recording: 10/27/2021 19:32:10

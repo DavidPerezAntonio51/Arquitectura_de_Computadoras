@@ -1,0 +1,211 @@
+m255
+K4
+z2
+!s11e vcom 2020.3 2020.10, Oct 14 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/GIT/Arquitectura_de_Computadoras/rom00/testbench
+Econtread00
+Z1 w1637256303
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 2
+R0
+Z6 8D:/GIT/Arquitectura_de_Computadoras/rom00/testbench/contRead00.vhdl
+Z7 FD:/GIT/Arquitectura_de_Computadoras/rom00/testbench/contRead00.vhdl
+l0
+L6 1
+V;:JU7kHZ2NceRk]aNHdR32
+!s100 >VfYW4db:>4b7=cHD:O^c3
+Z8 OT;C;2020.3;71
+32
+Z9 !s110 1637256455
+!i10b 1
+Z10 !s108 1637256455.000000
+Z11 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/rom00/testbench/contRead00.vhdl|
+Z12 !s107 D:/GIT/Arquitectura_de_Computadoras/rom00/testbench/contRead00.vhdl|
+!i113 1
+Z13 o-work work -O0
+Z14 tExplicit 1 CvgOpt 0
+Acontread0
+R2
+R3
+R4
+R5
+DEx4 work 10 contread00 0 22 ;:JU7kHZ2NceRk]aNHdR32
+!i122 2
+l14
+L13 19
+V;HT`[BKMenCk4TLbki:LG1
+!s100 61nBFO10=S8hfZhN4I8;A2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ememrom00
+Z15 w1637255185
+R2
+R3
+R4
+R5
+!i122 1
+R0
+Z16 8D:/GIT/Arquitectura_de_Computadoras/rom00/testbench/memrom00.vhdl
+Z17 FD:/GIT/Arquitectura_de_Computadoras/rom00/testbench/memrom00.vhdl
+l0
+L6 1
+VZ]NNIP00KO1mn7_df5oDT0
+!s100 AW1<Nf`7UQ@NazPG:9FnC3
+R8
+32
+R9
+!i10b 1
+R10
+Z18 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/rom00/testbench/memrom00.vhdl|
+Z19 !s107 D:/GIT/Arquitectura_de_Computadoras/rom00/testbench/memrom00.vhdl|
+!i113 1
+R13
+R14
+Amemrom0
+R2
+R3
+R4
+R5
+DEx4 work 8 memrom00 0 22 Z]NNIP00KO1mn7_df5oDT0
+!i122 1
+l32
+L12 26
+V9Wfg29oK2C>1Hh7fb@]d=0
+!s100 z62Q:cOzbWXEh86gX[Dz82
+R8
+32
+R9
+!i10b 1
+R10
+R18
+R19
+!i113 1
+R13
+R14
+Ppackagerom00
+R4
+R5
+!i122 0
+w1637255296
+R0
+8D:/GIT/Arquitectura_de_Computadoras/rom00/testbench/packagerom00.vhdl
+FD:/GIT/Arquitectura_de_Computadoras/rom00/testbench/packagerom00.vhdl
+l0
+L4 1
+V@Kgk`a[n8UPHBm2X67WC60
+!s100 UBTFlXD[;^O2Y:JkQSaaM3
+R8
+32
+R9
+!i10b 1
+R10
+!s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/rom00/testbench/packagerom00.vhdl|
+!s107 D:/GIT/Arquitectura_de_Computadoras/rom00/testbench/packagerom00.vhdl|
+!i113 1
+R13
+R14
+Erom00
+Z20 w1637255655
+Z21 DPx4 work 12 packagerom00 0 22 @Kgk`a[n8UPHBm2X67WC60
+R2
+R3
+R4
+R5
+!i122 3
+R0
+Z22 8D:/GIT/Arquitectura_de_Computadoras/rom00/testbench/rom00.vhdl
+Z23 FD:/GIT/Arquitectura_de_Computadoras/rom00/testbench/rom00.vhdl
+l0
+L8 1
+V@MM;nU]4]zI<oKekbkC_T1
+!s100 QKQiFTYUb8m5PS6;^5Qz=2
+R8
+32
+R9
+!i10b 1
+R10
+Z24 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/rom00/testbench/rom00.vhdl|
+Z25 !s107 D:/GIT/Arquitectura_de_Computadoras/rom00/testbench/rom00.vhdl|
+!i113 1
+R13
+R14
+Arom0
+R21
+R2
+R3
+R4
+R5
+DEx4 work 5 rom00 0 22 @MM;nU]4]zI<oKekbkC_T1
+!i122 3
+l17
+L16 12
+VlbnQZVFhERUIA<=18dYPM3
+!s100 T@Im;?doCXEXd=obBz?[I0
+R8
+32
+R9
+!i10b 1
+R10
+R24
+R25
+!i113 1
+R13
+R14
+Etestbenchrom00
+Z26 w1637256424
+R4
+R5
+!i122 4
+R0
+Z27 8D:/GIT/Arquitectura_de_Computadoras/rom00/testbench/testbenchrom00.vhdl
+Z28 FD:/GIT/Arquitectura_de_Computadoras/rom00/testbench/testbenchrom00.vhdl
+l0
+L4 1
+VZhl0h6_Lcn@7f_?OFKLJE0
+!s100 6VzgzVzMbOTlf^NRh>kg?2
+R8
+32
+R9
+!i10b 1
+R10
+Z29 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/rom00/testbench/testbenchrom00.vhdl|
+!s107 D:/GIT/Arquitectura_de_Computadoras/rom00/testbench/testbenchrom00.vhdl|
+!i113 1
+R13
+R14
+Atestbenchrom0
+R4
+R5
+DEx4 work 14 testbenchrom00 0 22 Zhl0h6_Lcn@7f_?OFKLJE0
+!i122 4
+l19
+L8 34
+VAoQK]zd2df;7f;AAD@F8j2
+!s100 Se6lC9G[9ScfA:j3KA^T[2
+R8
+32
+R9
+!i10b 1
+R10
+R29
+Z30 !s107 D:/GIT/Arquitectura_de_Computadoras/rom00/testbench/testbenchrom00.vhdl|
+!i113 1
+R13
+R14
