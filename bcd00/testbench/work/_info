@@ -1,0 +1,811 @@
+m255
+K4
+z2
+!s11e vcom 2020.3 2020.10, Oct 14 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/GIT/Arquitectura_de_Computadoras/bcd00/testbench
+Eac1200
+Z1 w1639177261
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 5
+R0
+Z4 8D:/GIT/Arquitectura_de_Computadoras/bcd00/ac1200.vhdl
+Z5 FD:/GIT/Arquitectura_de_Computadoras/bcd00/ac1200.vhdl
+l0
+L5 1
+V4KLEKB9=4A>6;X@TfMz:U0
+!s100 KKhZe4Y5R58[UhfYmJ3m10
+Z6 OT;C;2020.3;71
+32
+Z7 !s110 1639177448
+!i10b 1
+Z8 !s108 1639177448.000000
+Z9 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/ac1200.vhdl|
+Z10 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/ac1200.vhdl|
+!i113 1
+Z11 o-work work -O0
+Z12 tExplicit 1 CvgOpt 0
+Aac120
+R2
+R3
+DEx4 work 6 ac1200 0 22 4KLEKB9=4A>6;X@TfMz:U0
+!i122 5
+l16
+L15 25
+VJ73T>cJ=8a3DCmEOZ1OIN2
+!s100 U:;9UhJ:k6OnG74Bj5Z>m0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eac800
+Z13 w1639177255
+R2
+R3
+!i122 6
+R0
+Z14 8D:/GIT/Arquitectura_de_Computadoras/bcd00/ac800.vhdl
+Z15 FD:/GIT/Arquitectura_de_Computadoras/bcd00/ac800.vhdl
+l0
+L4 1
+V0zHF_Fa=KZb<`P0dWVDh:0
+!s100 Xj:Oo@X;LHSC0m`Sn>7AV3
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/ac800.vhdl|
+Z17 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/ac800.vhdl|
+!i113 1
+R11
+R12
+Aac80
+R2
+R3
+DEx4 work 5 ac800 0 22 0zHF_Fa=KZb<`P0dWVDh:0
+!i122 6
+l14
+L13 23
+VC[>UQ_m8]jkB6_FTQKiR^2
+!s100 4T=?_O;@XB<O`BK29NN?o3
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Ebcd00
+Z18 w1639177416
+Z19 DPx4 work 12 packagebcd00 0 22 5bMMbcOm?lom:KMNnCfPo0
+Z20 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z21 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R2
+R3
+!i122 17
+R0
+Z22 8D:/GIT/Arquitectura_de_Computadoras/bcd00/bcd00.vhdl
+Z23 FD:/GIT/Arquitectura_de_Computadoras/bcd00/bcd00.vhdl
+l0
+L8 1
+VfB5JIzoVh8c;z_J]U?E8d1
+!s100 KKCid<LcnPdzoV3>mS0OK3
+R6
+32
+Z24 !s110 1639177449
+!i10b 1
+Z25 !s108 1639177449.000000
+Z26 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/bcd00.vhdl|
+Z27 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/bcd00.vhdl|
+!i113 1
+R11
+R12
+Abcd0
+R19
+R20
+R21
+R2
+R3
+DEx4 work 5 bcd00 0 22 fB5JIzoVh8c;z_J]U?E8d1
+!i122 17
+l44
+L36 126
+VBzVYVi6T5RoOln0_eVR:[2
+!s100 ^@mlQ=^zBUS`e>90k79LS0
+R6
+32
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R11
+R12
+Echeckcode00
+Z28 w1639177234
+R20
+R21
+R2
+R3
+!i122 8
+R0
+Z29 8D:/GIT/Arquitectura_de_Computadoras/bcd00/checkCode00.vhdl
+Z30 FD:/GIT/Arquitectura_de_Computadoras/bcd00/checkCode00.vhdl
+l0
+L7 1
+VF^ZhR>i@m@zd?nieLYFd93
+!s100 JXTFW880zz`j_JU`A3hTW0
+R6
+32
+R7
+!i10b 1
+R8
+Z31 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/checkCode00.vhdl|
+Z32 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/checkCode00.vhdl|
+!i113 1
+R11
+R12
+Acheckcode0
+R20
+R21
+R2
+R3
+DEx4 work 11 checkcode00 0 22 F^ZhR>i@m@zd?nieLYFd93
+!i122 8
+l16
+L15 18
+VemmdJhd^21;EzoDXTnWlU1
+!s100 `FP26WhXYMzYEhEZf629W2
+R6
+32
+R7
+!i10b 1
+R8
+R31
+R32
+!i113 1
+R11
+R12
+Ecodernibbles00
+Z33 w1639177279
+R20
+R21
+R2
+R3
+!i122 2
+R0
+Z34 8D:/GIT/Arquitectura_de_Computadoras/bcd00/coderNibbles00.vhdl
+Z35 FD:/GIT/Arquitectura_de_Computadoras/bcd00/coderNibbles00.vhdl
+l0
+L7 1
+VYo=n<@TNhT;b=26EQa88X2
+!s100 USAh>c3=7`lWNmV7dbjMn2
+R6
+32
+Z36 !s110 1639177447
+!i10b 1
+Z37 !s108 1639177447.000000
+Z38 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/coderNibbles00.vhdl|
+Z39 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/coderNibbles00.vhdl|
+!i113 1
+R11
+R12
+Acodernibbles0
+R20
+R21
+R2
+R3
+DEx4 work 14 codernibbles00 0 22 Yo=n<@TNhT;b=26EQa88X2
+!i122 2
+l17
+L15 47
+V69ZRaCTII_9iYeRj3LO751
+!s100 nGHbO@`c7eGSViT^YV4E02
+R6
+32
+R36
+!i10b 1
+R37
+R38
+R39
+!i113 1
+R11
+R12
+Ecompadd00
+Z40 w1639177199
+R20
+R21
+R2
+R3
+!i122 13
+R0
+Z41 8D:/GIT/Arquitectura_de_Computadoras/bcd00/compadd00.vhdl
+Z42 FD:/GIT/Arquitectura_de_Computadoras/bcd00/compadd00.vhdl
+l0
+L7 1
+VLcMfbN<[Vi2Z>Fkbf7nWg3
+!s100 OdEh[QQ7DBL[5NC@z>;YA0
+R6
+32
+R24
+!i10b 1
+R25
+Z43 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/compadd00.vhdl|
+Z44 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/compadd00.vhdl|
+!i113 1
+R11
+R12
+Acompadd0
+R20
+R21
+R2
+R3
+DEx4 work 9 compadd00 0 22 LcMfbN<[Vi2Z>Fkbf7nWg3
+!i122 13
+l19
+L17 48
+V]]SX^=G2UhzVBRP;o7lX73
+!s100 cDb:mL<08_`WzFjhV@9gA1
+R6
+32
+R24
+!i10b 1
+R25
+R43
+R44
+!i113 1
+R11
+R12
+Econtiter00
+Z45 w1639177249
+R20
+R21
+R2
+R3
+!i122 7
+R0
+Z46 8D:/GIT/Arquitectura_de_Computadoras/bcd00/contIter00.vhdl
+Z47 FD:/GIT/Arquitectura_de_Computadoras/bcd00/contIter00.vhdl
+l0
+L7 1
+V];?DGA05JUPeDBceVMLjQ1
+!s100 f6AOHWEX;?LfnGgNLI6oK2
+R6
+32
+R7
+!i10b 1
+R8
+Z48 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/contIter00.vhdl|
+Z49 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/contIter00.vhdl|
+!i113 1
+R11
+R12
+Acontiter0
+R20
+R21
+R2
+R3
+DEx4 work 10 contiter00 0 22 ];?DGA05JUPeDBceVMLjQ1
+!i122 7
+l20
+L18 121
+ViQaa:CJRlh_hR<i[EmOVg2
+!s100 foZ]>VE@cFd33VfPzfI?a3
+R6
+32
+R7
+!i10b 1
+R8
+R48
+R49
+!i113 1
+R11
+R12
+Econtring00
+Z50 w1639177273
+R20
+R21
+R2
+R3
+!i122 3
+R0
+Z51 8D:/GIT/Arquitectura_de_Computadoras/bcd00/contring00.vhdl
+Z52 FD:/GIT/Arquitectura_de_Computadoras/bcd00/contring00.vhdl
+l0
+L7 1
+V9W>YDPFdmJN`5dYaWRH]60
+!s100 >a3I[H7aImXa<4I>f_Bo;0
+R6
+32
+R36
+!i10b 1
+R37
+Z53 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/contring00.vhdl|
+Z54 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/contring00.vhdl|
+!i113 1
+R11
+R12
+Acontring0
+R20
+R21
+R2
+R3
+DEx4 work 10 contring00 0 22 9W>YDPFdmJN`5dYaWRH]60
+!i122 3
+l16
+L14 17
+V9KDFe?53?9Ef[dZAI>]B91
+!s100 KT^4_]@ZCDfhQPIn:dMGH3
+R6
+32
+R36
+!i10b 1
+R37
+R53
+R54
+!i113 1
+R11
+R12
+Einit00
+Z55 w1639177178
+R2
+R3
+!i122 16
+R0
+Z56 8D:/GIT/Arquitectura_de_Computadoras/bcd00/init00.vhdl
+Z57 FD:/GIT/Arquitectura_de_Computadoras/bcd00/init00.vhdl
+l0
+L4 1
+V3CEjhl9Pn_QghZ;jn3ijD3
+!s100 ZJJR:PZoTPZoAO?>o1`;n2
+R6
+32
+R24
+!i10b 1
+R25
+Z58 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/init00.vhdl|
+Z59 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/init00.vhdl|
+!i113 1
+R11
+R12
+Ainit0
+R2
+R3
+DEx4 work 6 init00 0 22 3CEjhl9Pn_QghZ;jn3ijD3
+!i122 16
+l16
+L15 48
+VbAoSM<LPFRl9bT59iKIDH3
+!s100 2`DXDeL4?HH9YDRokJ5893
+R6
+32
+R24
+!i10b 1
+R25
+R58
+R59
+!i113 1
+R11
+R12
+Eleedato00
+Z60 w1639177184
+R2
+R3
+!i122 15
+R0
+Z61 8D:/GIT/Arquitectura_de_Computadoras/bcd00/leedato00.vhdl
+Z62 FD:/GIT/Arquitectura_de_Computadoras/bcd00/leedato00.vhdl
+l0
+L5 1
+V>HzO;HBZHbC35Z6_^JLMM1
+!s100 jEI9ISE@LZWk:]db?Kg182
+R6
+32
+R24
+!i10b 1
+R25
+Z63 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/leedato00.vhdl|
+Z64 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/leedato00.vhdl|
+!i113 1
+R11
+R12
+Aleedato0
+R2
+R3
+DEx4 work 9 leedato00 0 22 >HzO;HBZHbC35Z6_^JLMM1
+!i122 15
+l16
+L15 27
+VSM:R]F;QkgAC=LBlkdFP33
+!s100 j?k>oQHOFZNUNmGJ=YEb<3
+R6
+32
+R24
+!i10b 1
+R25
+R63
+R64
+!i113 1
+R11
+R12
+Ememprog00
+Z65 w1639177267
+R20
+R21
+R2
+R3
+!i122 4
+R0
+Z66 8D:/GIT/Arquitectura_de_Computadoras/bcd00/memProg00.vhdl
+Z67 FD:/GIT/Arquitectura_de_Computadoras/bcd00/memProg00.vhdl
+l0
+L7 1
+VLBRcANVR<U9c94_mfT=d@1
+!s100 HOc0[:^?I10UTcE0WgA[z0
+R6
+32
+R7
+!i10b 1
+R37
+Z68 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/memProg00.vhdl|
+Z69 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/memProg00.vhdl|
+!i113 1
+R11
+R12
+Amemprog0
+R20
+R21
+R2
+R3
+DEx4 work 9 memprog00 0 22 LBRcANVR<U9c94_mfT=d@1
+!i122 4
+l26
+L16 23
+Vn1;RVnRgNk7f3Eok9oj?61
+!s100 D7L282ghb=F0njbCjlN:z3
+R6
+32
+R7
+!i10b 1
+R37
+R68
+R69
+!i113 1
+R11
+R12
+Emux00
+Z70 w1639177284
+R20
+R21
+R2
+R3
+!i122 1
+R0
+Z71 8D:/GIT/Arquitectura_de_Computadoras/bcd00/mux00.vhdl
+Z72 FD:/GIT/Arquitectura_de_Computadoras/bcd00/mux00.vhdl
+l0
+L6 1
+V79oHc?@2GVO;BMz2>:TMa0
+!s100 <f^?7iAboYok]4ToE<Mo<3
+R6
+32
+R36
+!i10b 1
+R37
+Z73 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/mux00.vhdl|
+Z74 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/mux00.vhdl|
+!i113 1
+R11
+R12
+Amux0
+R20
+R21
+R2
+R3
+DEx4 work 5 mux00 0 22 79oHc?@2GVO;BMz2>:TMa0
+!i122 1
+l16
+L15 9
+V^616Lklo`S_3[Omo<H^hI1
+!s100 ^o020?YQ7FV2YB[^>gIJb2
+R6
+32
+R36
+!i10b 1
+R37
+R73
+R74
+!i113 1
+R11
+R12
+Ppackagebcd00
+R20
+R21
+R2
+R3
+!i122 0
+w1639177291
+R0
+8D:/GIT/Arquitectura_de_Computadoras/bcd00/packagebcd00.vhdl
+FD:/GIT/Arquitectura_de_Computadoras/bcd00/packagebcd00.vhdl
+l0
+L7 1
+V5bMMbcOm?lom:KMNnCfPo0
+!s100 Mh4;8`4gk_^JGO1KnbMMI0
+R6
+32
+R36
+!i10b 1
+R37
+!s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/packagebcd00.vhdl|
+!s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/packagebcd00.vhdl|
+!i113 1
+R11
+R12
+Epc00
+Z75 w1639177228
+R20
+R21
+R2
+R3
+!i122 9
+R0
+Z76 8D:/GIT/Arquitectura_de_Computadoras/bcd00/pc00.vhdl
+Z77 FD:/GIT/Arquitectura_de_Computadoras/bcd00/pc00.vhdl
+l0
+L7 1
+Vo;_2hh`YaYc;G@UeDDZAa3
+!s100 9dROOVm?54da;]YE8XIYc0
+R6
+32
+R7
+!i10b 1
+R8
+Z78 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/pc00.vhdl|
+Z79 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/pc00.vhdl|
+!i113 1
+R11
+R12
+Apc0
+R20
+R21
+R2
+R3
+DEx4 work 4 pc00 0 22 o;_2hh`YaYc;G@UeDDZAa3
+!i122 9
+l16
+L15 105
+V4NzfJ<4]2h3Sj?]_bo2oj3
+!s100 Fo@IIDgHAl<X<:^O60IMG0
+R6
+32
+R7
+!i10b 1
+R8
+R78
+R79
+!i113 1
+R11
+R12
+Eshift12s00
+Z80 w1639177210
+R2
+R3
+!i122 11
+R0
+Z81 8D:/GIT/Arquitectura_de_Computadoras/bcd00/shift12s00.vhdl
+Z82 FD:/GIT/Arquitectura_de_Computadoras/bcd00/shift12s00.vhdl
+l0
+L5 1
+VNDM2b991bg]>0eFSF@PE70
+!s100 EoHSLjg]h=Nj[CLjST3kX2
+R6
+32
+R7
+!i10b 1
+R8
+Z83 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/shift12s00.vhdl|
+Z84 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/shift12s00.vhdl|
+!i113 1
+R11
+R12
+Ashift12s0
+R2
+R3
+DEx4 work 10 shift12s00 0 22 NDM2b991bg]>0eFSF@PE70
+!i122 11
+l16
+L15 28
+VUYCNN3?zWfXleWNP]jB`13
+!s100 4IcQ9Q@1BXgY6[o2[Z>lU0
+R6
+32
+R7
+!i10b 1
+R8
+R83
+R84
+!i113 1
+R11
+R12
+Eshift8s00
+Z85 w1639177204
+R2
+R3
+!i122 12
+R0
+Z86 8D:/GIT/Arquitectura_de_Computadoras/bcd00/shift8s00.vhdl
+Z87 FD:/GIT/Arquitectura_de_Computadoras/bcd00/shift8s00.vhdl
+l0
+L4 1
+VV?ciW8j]1a@mbDSXo6:=h2
+!s100 FEiOiZ?5`[cmFAkHNbLOb0
+R6
+32
+R24
+!i10b 1
+R8
+Z88 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/shift8s00.vhdl|
+Z89 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/shift8s00.vhdl|
+!i113 1
+R11
+R12
+Ashift8s0
+R2
+R3
+DEx4 work 9 shift8s00 0 22 V?ciW8j]1a@mbDSXo6:=h2
+!i122 12
+l15
+L14 28
+V`_:?<Yb?o:X3[V@af;S`R3
+!s100 DO6I1fhjdTiEJRLWR@QYP3
+R6
+32
+R24
+!i10b 1
+R8
+R88
+R89
+!i113 1
+R11
+R12
+Esust00
+Z90 w1639177192
+R2
+R3
+!i122 14
+R0
+Z91 8D:/GIT/Arquitectura_de_Computadoras/bcd00/sust00.vhdl
+Z92 FD:/GIT/Arquitectura_de_Computadoras/bcd00/sust00.vhdl
+l0
+L4 1
+V46lL[@WIc`ek@ZRzE:f<]0
+!s100 KgKNeRTcFXn5]3K<gk@RQ0
+R6
+32
+R24
+!i10b 1
+R25
+Z93 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/sust00.vhdl|
+Z94 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/sust00.vhdl|
+!i113 1
+R11
+R12
+Asust0
+R2
+R3
+DEx4 work 6 sust00 0 22 46lL[@WIc`ek@ZRzE:f<]0
+!i122 14
+l17
+L16 29
+Vk0AG>AnBfV?9K6;;;57cP1
+!s100 PjeOHPjVz1[0b6:PCfCQP1
+R6
+32
+R24
+!i10b 1
+R25
+R93
+R94
+!i113 1
+R11
+R12
+Etestbenc
+Z95 w1639177108
+R2
+R3
+!i122 18
+R0
+Z96 8D:/GIT/Arquitectura_de_Computadoras/bcd00/testbenc.vhdl
+Z97 FD:/GIT/Arquitectura_de_Computadoras/bcd00/testbenc.vhdl
+l0
+L5 1
+Vgc<=QG<QM5L1JX9YM2bOT1
+!s100 JNO^n0XjU49OMZUZ6kAAH0
+R6
+32
+R24
+!i10b 1
+R25
+Z98 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/testbenc.vhdl|
+!s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/testbenc.vhdl|
+!i113 1
+R11
+R12
+Atestbench
+R2
+R3
+DEx4 work 8 testbenc 0 22 gc<=QG<QM5L1JX9YM2bOT1
+!i122 18
+l40
+L8 45
+VY8oGczIB8VzCJDXgPQfoL1
+!s100 KM]b8H_V>Wl8BkK972XkA2
+R6
+32
+R24
+!i10b 1
+R25
+R98
+Z99 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/testbenc.vhdl|
+!i113 1
+R11
+R12
+Euc00
+Z100 w1639177217
+R2
+R3
+!i122 10
+R0
+Z101 8D:/GIT/Arquitectura_de_Computadoras/bcd00/uc00.vhdl
+Z102 FD:/GIT/Arquitectura_de_Computadoras/bcd00/uc00.vhdl
+l0
+L5 1
+V4cF2LoKH]^Bg`zXHFLAj91
+!s100 UC_U@5QW8K;zeXim=<3H:2
+R6
+32
+R7
+!i10b 1
+R8
+Z103 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/uc00.vhdl|
+Z104 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/uc00.vhdl|
+!i113 1
+R11
+R12
+Auc0
+R2
+R3
+DEx4 work 4 uc00 0 22 4cF2LoKH]^Bg`zXHFLAj91
+!i122 10
+l19
+L17 32
+V]_^e4?1ojnak8:4OJJX7S0
+!s100 :3gQ_UjLN7FbikoVZ1jYV2
+R6
+32
+R7
+!i10b 1
+R8
+R103
+R104
+!i113 1
+R11
+R12

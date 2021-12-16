@@ -1,0 +1,51 @@
+if {![file exists "D:/GIT/Arquitectura_de_Computadoras/bcd00/testbench/testbench.mpf"]} { 
+	project new "D:/GIT/Arquitectura_de_Computadoras/bcd00/testbench" testbench
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/bcd00/packagebcd00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/bcd00/mux00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/bcd00/coderNibbles00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/bcd00/contring00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/bcd00/memProg00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/bcd00/ac1200.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/bcd00/ac800.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/bcd00/contIter00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/bcd00/checkCode00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/bcd00/pc00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/bcd00/uc00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/bcd00/shift12s00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/bcd00/shift8s00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/bcd00/compadd00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/bcd00/sust00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/bcd00/leedato00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/bcd00/init00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/bcd00/bcd00.vhdl"
+	project addfile "D:/GIT/Arquitectura_de_Computadoras/bcd00/testbenc.vhdl"
+	vlib  work
+	vdel -lib work -all 
+	vlib work
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/bcd00/packagebcd00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/bcd00/mux00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/bcd00/coderNibbles00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/bcd00/contring00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/bcd00/memProg00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/bcd00/ac1200.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/bcd00/ac800.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/bcd00/contIter00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/bcd00/checkCode00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/bcd00/pc00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/bcd00/uc00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/bcd00/shift12s00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/bcd00/shift8s00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/bcd00/compadd00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/bcd00/sust00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/bcd00/leedato00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/bcd00/init00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/bcd00/bcd00.vhdl"
+	vcom -work work "D:/GIT/Arquitectura_de_Computadoras/bcd00/testbenc.vhdl"
+} else {
+	project open "D:/GIT/Arquitectura_de_Computadoras/bcd00/testbench/testbench"
+	project compileoutofdate
+}
+vsim -L work -L pmi_work -L ovi_machxo2  testbenc
+view wave
+add wave /*
+run 1000ns

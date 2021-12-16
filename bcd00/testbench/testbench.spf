@@ -1,0 +1,25 @@
+<BaliSimProject version="1.3" path="." stage="0" language="-1" name="testbench" simType="ModelSim">
+    <Source worklib="work" path="packagebcd00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="mux00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="coderNibbles00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="contring00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="memProg00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="ac1200.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="ac800.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="contIter00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="checkCode00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="pc00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="uc00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="shift12s00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="shift8s00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="compadd00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="sust00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="leedato00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="init00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="bcd00.vhdl" type="VHDL" include="none"/>
+    <Source worklib="work" path="testbenc.vhdl" type="VHDL" include="none"/>
+    <SimLib value="pmi_work ovi_machxo2"/>
+    <GlbInc value=""/>
+    <Macro value=""/>
+    <TopModule instance="" language="VHDL" name="testbenc"/>
+</BaliSimProject>
