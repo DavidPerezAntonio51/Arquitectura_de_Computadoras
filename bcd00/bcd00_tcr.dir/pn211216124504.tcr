@@ -1,0 +1,5 @@
+#Start recording tcl command: 12/16/2021 11:46:41
+#Project Location: D:/GIT/Arquitectura_de_Computadoras/bcd00; Project name: bcd00
+prj_project open "D:/GIT/Arquitectura_de_Computadoras/bcd00/bcd00.ldf"
+prj_src add "D:/GIT/Arquitectura_de_Computadoras/bcd00/testbench/testbench.spf"
+#Stop recording: 12/16/2021 12:45:04

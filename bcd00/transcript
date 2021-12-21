@@ -2,7 +2,7 @@
 # do {D:/GIT/Arquitectura_de_Computadoras/bcd00/testbench/testbench.mdo}
 # Loading project testbench
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 17:04:07 on Dec 10,2021
+# Start time: 11:47:32 on Dec 16,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/bcd00/packagebcd00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -10,10 +10,10 @@
 # -- Loading package std_logic_arith
 # -- Loading package STD_LOGIC_UNSIGNED
 # -- Compiling package packagebcd00
-# End time: 17:04:07 on Dec 10,2021, Elapsed time: 0:00:00
+# End time: 11:47:33 on Dec 16,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 17:04:07 on Dec 10,2021
+# Start time: 11:47:33 on Dec 16,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/bcd00/mux00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -22,10 +22,10 @@
 # -- Loading package STD_LOGIC_UNSIGNED
 # -- Compiling entity mux00
 # -- Compiling architecture mux0 of mux00
-# End time: 17:04:07 on Dec 10,2021, Elapsed time: 0:00:00
+# End time: 11:47:33 on Dec 16,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 17:04:07 on Dec 10,2021
+# Start time: 11:47:33 on Dec 16,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/bcd00/coderNibbles00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -34,10 +34,10 @@
 # -- Loading package STD_LOGIC_UNSIGNED
 # -- Compiling entity coderNibbles00
 # -- Compiling architecture coderNibbles0 of coderNibbles00
-# End time: 17:04:07 on Dec 10,2021, Elapsed time: 0:00:00
+# End time: 11:47:33 on Dec 16,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 17:04:07 on Dec 10,2021
+# Start time: 11:47:33 on Dec 16,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/bcd00/contring00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -46,10 +46,10 @@
 # -- Loading package STD_LOGIC_UNSIGNED
 # -- Compiling entity contring00
 # -- Compiling architecture contring0 of contring00
-# End time: 17:04:07 on Dec 10,2021, Elapsed time: 0:00:00
+# End time: 11:47:33 on Dec 16,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 17:04:07 on Dec 10,2021
+# Start time: 11:47:33 on Dec 16,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/bcd00/memProg00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -58,30 +58,30 @@
 # -- Loading package STD_LOGIC_UNSIGNED
 # -- Compiling entity memProg00
 # -- Compiling architecture memProg0 of memProg00
-# End time: 17:04:08 on Dec 10,2021, Elapsed time: 0:00:01
+# End time: 11:47:34 on Dec 16,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 17:04:08 on Dec 10,2021
+# Start time: 11:47:34 on Dec 16,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/bcd00/ac1200.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity ac1200
 # -- Compiling architecture ac120 of ac1200
-# End time: 17:04:08 on Dec 10,2021, Elapsed time: 0:00:00
+# End time: 11:47:34 on Dec 16,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 17:04:08 on Dec 10,2021
+# Start time: 11:47:34 on Dec 16,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/bcd00/ac800.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity ac800
 # -- Compiling architecture ac80 of ac800
-# End time: 17:04:08 on Dec 10,2021, Elapsed time: 0:00:00
+# End time: 11:47:34 on Dec 16,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 17:04:08 on Dec 10,2021
+# Start time: 11:47:34 on Dec 16,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/bcd00/contIter00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -90,10 +90,10 @@
 # -- Loading package STD_LOGIC_UNSIGNED
 # -- Compiling entity contIter00
 # -- Compiling architecture contIter0 of contIter00
-# End time: 17:04:08 on Dec 10,2021, Elapsed time: 0:00:00
+# End time: 11:47:34 on Dec 16,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 17:04:08 on Dec 10,2021
+# Start time: 11:47:34 on Dec 16,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/bcd00/checkCode00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -102,10 +102,10 @@
 # -- Loading package STD_LOGIC_UNSIGNED
 # -- Compiling entity checkCode00
 # -- Compiling architecture checkCode0 of checkCode00
-# End time: 17:04:08 on Dec 10,2021, Elapsed time: 0:00:00
+# End time: 11:47:34 on Dec 16,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 17:04:08 on Dec 10,2021
+# Start time: 11:47:34 on Dec 16,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/bcd00/pc00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -114,40 +114,40 @@
 # -- Loading package STD_LOGIC_UNSIGNED
 # -- Compiling entity pc00
 # -- Compiling architecture pc0 of pc00
-# End time: 17:04:08 on Dec 10,2021, Elapsed time: 0:00:00
+# End time: 11:47:34 on Dec 16,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 17:04:08 on Dec 10,2021
+# Start time: 11:47:34 on Dec 16,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/bcd00/uc00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity uc00
 # -- Compiling architecture uc0 of uc00
-# End time: 17:04:08 on Dec 10,2021, Elapsed time: 0:00:00
+# End time: 11:47:34 on Dec 16,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 17:04:08 on Dec 10,2021
+# Start time: 11:47:34 on Dec 16,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/bcd00/shift12s00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity shift12s00
 # -- Compiling architecture shift12s0 of shift12s00
-# End time: 17:04:08 on Dec 10,2021, Elapsed time: 0:00:00
+# End time: 11:47:34 on Dec 16,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 17:04:08 on Dec 10,2021
+# Start time: 11:47:34 on Dec 16,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/bcd00/shift8s00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity shift8s00
 # -- Compiling architecture shift8s0 of shift8s00
-# End time: 17:04:09 on Dec 10,2021, Elapsed time: 0:00:01
+# End time: 11:47:35 on Dec 16,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 17:04:09 on Dec 10,2021
+# Start time: 11:47:35 on Dec 16,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/bcd00/compadd00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -156,40 +156,40 @@
 # -- Loading package STD_LOGIC_UNSIGNED
 # -- Compiling entity compadd00
 # -- Compiling architecture compadd0 of compadd00
-# End time: 17:04:09 on Dec 10,2021, Elapsed time: 0:00:00
+# End time: 11:47:35 on Dec 16,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 17:04:09 on Dec 10,2021
+# Start time: 11:47:35 on Dec 16,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/bcd00/sust00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity sust00
 # -- Compiling architecture sust0 of sust00
-# End time: 17:04:09 on Dec 10,2021, Elapsed time: 0:00:00
+# End time: 11:47:35 on Dec 16,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 17:04:09 on Dec 10,2021
+# Start time: 11:47:35 on Dec 16,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/bcd00/leedato00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity leeDato00
 # -- Compiling architecture leeDato0 of leeDato00
-# End time: 17:04:09 on Dec 10,2021, Elapsed time: 0:00:00
+# End time: 11:47:35 on Dec 16,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 17:04:09 on Dec 10,2021
+# Start time: 11:47:35 on Dec 16,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/bcd00/init00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity init00
 # -- Compiling architecture init0 of init00
-# End time: 17:04:09 on Dec 10,2021, Elapsed time: 0:00:00
+# End time: 11:47:35 on Dec 16,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 17:04:09 on Dec 10,2021
+# Start time: 11:47:35 on Dec 16,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/bcd00/bcd00.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -199,20 +199,20 @@
 # -- Loading package packagebcd00
 # -- Compiling entity bcd00
 # -- Compiling architecture bcd0 of bcd00
-# End time: 17:04:09 on Dec 10,2021, Elapsed time: 0:00:00
+# End time: 11:47:35 on Dec 16,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
-# Start time: 17:04:09 on Dec 10,2021
+# Start time: 11:47:35 on Dec 16,2021
 # vcom -reportprogress 300 -work work D:/GIT/Arquitectura_de_Computadoras/bcd00/testbenc.vhdl 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity testbenc
 # -- Compiling architecture testbench of testbenc
-# End time: 17:04:09 on Dec 10,2021, Elapsed time: 0:00:00
+# End time: 11:47:35 on Dec 16,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vsim -L work -L pmi_work -L ovi_machxo2 testbenc 
-# Start time: 17:04:10 on Dec 10,2021
+# Start time: 11:47:36 on Dec 16,2021
 # //  ModelSim - Lattice FPGA Edition 2020.3 Oct 14 2020
 # //
 # //  Copyright 1991-2020 Mentor Graphics Corporation
@@ -251,144 +251,58 @@
 # Loading work.codernibbles00(codernibbles0)
 # Loading work.mux00(mux0)
 # .main_pane.wave.interior.cs.body.pw.wf
-force -freeze sim:/testbenc/Sclk 1 0, 0 {50 ps} -r 100
-force -freeze sim:/testbenc/Sreset 1 0
-force -freeze sim:/testbenc/Senable 0 0
+force -freeze sim:/testbenc/Sindata 10000000 0
 run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1 us  Iteration: 0  Instance: /testbenc/bcd/BC04
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1000100 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
 run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1000200 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1000300 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1000400 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1000500 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1000600 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1000700 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1000800 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1000900 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1001 ns  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1001100 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1001200 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1001300 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1001400 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1001500 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-force -freeze sim:/testbenc/Sindata 11001100 0
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1001600 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1001700 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1001800 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1001900 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1002 ns  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1002100 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1002200 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1002300 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1002400 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1002500 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1002600 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1002700 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1002800 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1002900 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-force -freeze sim:/testbenc/Sreset 0 0
 force -freeze sim:/testbenc/Senable 1 0
 run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1003 ns  Iteration: 0  Instance: /testbenc/bcd/BC04
 run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1003100 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+force -freeze sim:/testbenc/Sreset 1 0
 run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1003200 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
 run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1003300 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
 run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1003400 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
 run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1003500 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
 run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1003600 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
 run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1003700 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
 run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1003800 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
 run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1003900 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
 run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1004 ns  Iteration: 0  Instance: /testbenc/bcd/BC04
 run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1004100 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
 run
-# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
-#    Time: 1004200 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+force -freeze sim:/testbenc/Sreset 0 0
+force -freeze sim:/testbenc/Senable 0 0
+force -freeze sim:/testbenc/Sclk 1 0, 0 {50 ps} -r 100
 run
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 1004300 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-run
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 1004400 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
 run
@@ -472,6 +386,8 @@ run
 run
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 1007100 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+noforce sim:/testbenc/Senable
+force -freeze sim:/testbenc/Senable 1 0
 run
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 1007200 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
@@ -481,7 +397,7 @@ run
 run
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 1007400 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-force -freeze sim:/testbenc/Sindata 00011001 0
+force -freeze sim:/testbenc/Sreset 1 0
 run
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 1007500 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
@@ -518,7 +434,6 @@ run
 run
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 1008600 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-force -freeze sim:/testbenc/Sreset 1 0
 run
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 1008700 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
@@ -579,7 +494,6 @@ run
 run
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 1010600 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-force -freeze sim:/testbenc/Sreset 0 0
 run
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 1010700 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
@@ -610,7 +524,6 @@ run
 run
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 1011600 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-force -freeze sim:/testbenc/Sreset 1 0
 run
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 1011700 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
@@ -677,6 +590,8 @@ run
 run
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 1013800 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+force -freeze sim:/testbenc/Senable 0 0
+force -freeze sim:/testbenc/Sreset 0 0
 run
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 1013900 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
@@ -701,7 +616,6 @@ run
 run
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 1014600 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-force -freeze sim:/testbenc/Sindata 00011011 0
 run
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 1014700 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
@@ -735,5 +649,70 @@ run
 run
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 1015700 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
-# End time: 17:12:30 on Dec 10,2021, Elapsed time: 0:08:20
-# Errors: 0, Warnings: 180
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1015800 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+force -freeze sim:/testbenc/Sreset 1 0
+force -freeze sim:/testbenc/Senable 1 0
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1015900 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1016 ns  Iteration: 0  Instance: /testbenc/bcd/BC04
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1016100 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1016200 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1016300 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1016400 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1016500 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1016600 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1016700 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1016800 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1016900 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1017 ns  Iteration: 0  Instance: /testbenc/bcd/BC04
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1017100 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1017200 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1017300 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1017400 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1017500 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1017600 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1017700 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1017800 ps  Iteration: 0  Instance: /testbenc/bcd/BC04
+# End time: 11:51:32 on Dec 16,2021, Elapsed time: 0:03:56
+# Errors: 0, Warnings: 158

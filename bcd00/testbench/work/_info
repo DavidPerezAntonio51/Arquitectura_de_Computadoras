@@ -23,9 +23,9 @@ V4KLEKB9=4A>6;X@TfMz:U0
 !s100 KKhZe4Y5R58[UhfYmJ3m10
 Z6 OT;C;2020.3;71
 32
-Z7 !s110 1639177448
+Z7 !s110 1639676854
 !i10b 1
-Z8 !s108 1639177448.000000
+Z8 !s108 1639676854.000000
 Z9 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/ac1200.vhdl|
 Z10 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/ac1200.vhdl|
 !i113 1
@@ -108,9 +108,9 @@ VfB5JIzoVh8c;z_J]U?E8d1
 !s100 KKCid<LcnPdzoV3>mS0OK3
 R6
 32
-Z24 !s110 1639177449
+Z24 !s110 1639676855
 !i10b 1
-Z25 !s108 1639177449.000000
+Z25 !s108 1639676855.000000
 Z26 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/bcd00.vhdl|
 Z27 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/bcd00.vhdl|
 !i113 1
@@ -199,9 +199,9 @@ VYo=n<@TNhT;b=26EQa88X2
 !s100 USAh>c3=7`lWNmV7dbjMn2
 R6
 32
-Z36 !s110 1639177447
+Z36 !s110 1639676853
 !i10b 1
-Z37 !s108 1639177447.000000
+Z37 !s108 1639676853.000000
 Z38 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/coderNibbles00.vhdl|
 Z39 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/coderNibbles00.vhdl|
 !i113 1
@@ -553,7 +553,7 @@ R6
 32
 R36
 !i10b 1
-R37
+!s108 1639676852.000000
 !s90 -reportprogress|300|-work|work|D:/GIT/Arquitectura_de_Computadoras/bcd00/packagebcd00.vhdl|
 !s107 D:/GIT/Arquitectura_de_Computadoras/bcd00/packagebcd00.vhdl|
 !i113 1
