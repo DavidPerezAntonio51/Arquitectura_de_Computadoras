@@ -1,1 +1,2 @@
 Arquitectura_de_Computadoras
+Practicas ESCOM-Gelacio
